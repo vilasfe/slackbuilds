@@ -33,11 +33,11 @@
 
 PRGNAM=python3-matplotlib
 SRCNAM=matplotlib
-VERSION=${VERSION:-2.2.3}
+VERSION=${VERSION:-3.2.1}
 BUILD=${BUILD:-1}
-TAG=${TAG:-_SBo}
+TAG=${TAG:-ponce}
 
-TARBALL_VERSION=${TARBALL_VERSION:-2.2.3} # Tarball may have wrong versioning
+TARBALL_VERSION=${TARBALL_VERSION:-3.2.1} # Tarball may have wrong versioning
 ENABLE_TESTS=${ENABLE_TESTS:-N}
 
 if [ -z "$ARCH" ]; then
@@ -80,7 +80,7 @@ fi
 # Use modified setupext.py to make sure that the build process gets
 # interrupted if requirements are not fulfilled
 #
-cat "${CWD}/setupext.py" > setupext.py
+#cat "${CWD}/setupext.py" > setupext.py
 
 python3 setup.py install --root $PKG  # > ${CWD}/SETUP.OUTPUT 2>&1
 
@@ -88,7 +88,7 @@ find $PKG | xargs file | grep -e "executable" -e "shared object" | grep ELF \
   | cut -f 1 -d : | xargs strip --strip-unneeded 2> /dev/null || true
 
 mkdir -p $PKG/usr/doc/$PRGNAM-$VERSION
-cp -a INSTALL.rst  MANIFEST.in  README.rst PKG-INFO $PKG/usr/doc/$PRGNAM-$VERSION
+cp -a INSTALL.rst  MANIFEST.in  README.rst $CWD/$PRGNAM.info $PKG/usr/doc/$PRGNAM-$VERSION
 cat $CWD/$PRGNAM.SlackBuild > $PKG/usr/doc/$PRGNAM-$VERSION/$PRGNAM.SlackBuild
 
 mkdir -p $PKG/install
