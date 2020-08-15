@@ -23,7 +23,7 @@
 #  ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 PRGNAM=gwenhywfar
-VERSION=${VERSION:-5.3.0}
+VERSION=${VERSION:-5.4.0}
 BUILD=${BUILD:-1}
 TAG=${TAG:-_SBo}
 
@@ -77,6 +77,9 @@ CXXFLAGS="$SLKCFLAGS" \
   --with-qt4-includes=/usr/lib${LIBDIRSUFFIX}/qt/include/ \
   --with-qt4-libs=/usr/lib${LIBDIRSUFFIX}/qt/lib \
   --libdir=/usr/lib${LIBDIRSUFFIX} \
+  --with-guis="qt4 qt5 gtk2" \
+  --with-qt5-moc=/usr/bin/moc-qt5 \
+  --with-qt5-qmake=/usr/bin/qmake-qt5 \
   --sysconfdir=/etc \
   --localstatedir=/var \
   --mandir=/usr/man \
