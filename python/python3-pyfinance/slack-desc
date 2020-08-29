@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+                 |-----handy-ruler------------------------------------------------------|
+python3-pyfinance: python3-pyfinance (Python package for security returns analysis)
+python3-pyfinance:
+python3-pyfinance: pyfinance is a Python package built for investment management and
+python3-pyfinance: analysis of security returns.
+python3-pyfinance:
+python3-pyfinance: It is meant to be a complement to existing packages geared towards
+python3-pyfinance: quantitative finance, such as pyfolio, pandas-datareader, and
+python3-pyfinance: fecon235.
+python3-pyfinance:
+python3-pyfinance: Homepage: https://pypi.org/project/pyfinance
+python3-pyfinance:
