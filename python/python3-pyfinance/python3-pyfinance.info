@@ -5,6 +5,6 @@ DOWNLOAD="https://files.pythonhosted.org/packages/ee/75/37eac889995e30481c293eeb
 MD5SUM="4665506afca2a7c4eea079a57ceab462"
 DOWNLOAD_x86_64=""
 MD5SUM_x86_64=""
-REQUIRES="python3"
+REQUIRES="python3 python3-statsmodels"
 MAINTAINER="Fernando Vilas"
 EMAIL="fernando.e.vilas@gmail.com"
