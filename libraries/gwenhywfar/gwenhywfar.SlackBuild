@@ -76,6 +76,7 @@ CXXFLAGS="$SLKCFLAGS" \
   --prefix=/usr \
   --with-qt4-includes=/usr/lib${LIBDIRSUFFIX}/qt/include/ \
   --with-qt4-libs=/usr/lib${LIBDIRSUFFIX}/qt/lib \
+  --with-guis="qt4 gtk2 gtk3" \
   --libdir=/usr/lib${LIBDIRSUFFIX} \
   --with-guis="qt4 qt5 gtk2" \
   --with-qt5-moc=/usr/bin/moc-qt5 \
