@@ -1,0 +1,10 @@
+PRGNAM=fstrcmp
+VERSION=0.7.D001
+HOMEPAGE="https://fstrcmp.sourceforge.net"
+DOWNLOAD="https://sourceforge.net/projects/fstrcmp/files/fstrcmp/0.7/fstrcmp-0.7.D001.tar.gz"
+MD5SUM="9c440bbdfcad9fd22e38f2388715b0cc"
+DOWNLOAD_x86_64=""
+MD5SUM_x86_64=""
+REQUIRES=""
+MAINTAINER="Fernando Vilas"
+EMAIL="fernando.e.vilas@gmail.com"
