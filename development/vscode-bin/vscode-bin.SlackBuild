@@ -24,8 +24,8 @@
 
 PRGNAM=vscode-bin
 SRCNAM=code-stable
-VERSION=${VERSION:-1.48.2}
-SRCVER=1598353759
+VERSION=${VERSION:-1.51.1}
+SRCVER=1605051992
 BUILD=${BUILD:-1}
 TAG=${TAG:-_SBo}
 
@@ -48,7 +48,7 @@ rm -rf $PKG
 mkdir -p $TMP $PKG $OUTPUT
 cd $TMP
 rm -rf VSCode-linux-x64
-tar xvf $CWD/$SRCNAM-$SRCVER.tar.gz
+tar xvf $CWD/$SRCNAM-x64-$SRCVER.tar.gz
 cd VSCode-linux-x64
 chown -R root:root .
 find -L . \

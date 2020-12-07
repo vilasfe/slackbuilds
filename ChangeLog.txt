@@ -1,3 +1,1825 @@
+Sun Dec  6 01:00:40 UTC 2020
+academic/Gridcoin-Research: Updated for version 5.2.0.0
+academic/nco: Updated for version 4.9.6.
+desktop/obmenu-generator: Updated for version 0.89.
+desktop/rofi: Updated for version 1.6.1.
+development/bluefish: Updated for version 2.2.12
+development/bvi: Update for version 1.4.1.
+development/dbeaver-ce: Updated for version 7.3.0.
+development/facile: Fix download link and homepage.
+development/ninja: Updated for version 1.10.2.
+development/postman: Updated for version 7.36.0.
+development/racer: Updated for version 2.1.41.
+development/ruff: Updated for version 1.0.4.
+development/rustup: Updated for version 1.23.1.
+development/sbcl: Updated for version 2.0.11.
+games/OpenXcom: Updated for version 20201125_1755.
+gis/qmapshack: Updated for version 1.15.1.
+graphics/fbgrab: Added (framebuffer screenshot program)
+graphics/vuescan: Updated MD5SUMs.
+graphics/xmedcon: Updated for version 0.16.3.
+ham/chirp: Updated for version 20201128.
+libraries/cfitsio: Updated for version 3.49.
+libraries/fmt: Updated for version 7.1.3.
+libraries/libinput: Updated for version 1.16.4.
+libraries/libmediainfo: Version bump to 20.09.
+libraries/pugixml: Updated for version 1.11.1.
+multimedia/flashplayer-plugin: Updated for version 32.0.0.453.
+multimedia/mediainfo: Version bump to 20.09.
+multimedia/pepperflash-plugin: Updated for version 32.0.0.453.
+multimedia/plexmediaserver: Updated for v 1.21.0.3711_b509cc236.
+network/avahi: Updated for version 0.8.
+network/broadcom-sta: Updated for recent kernels.
+network/dropbox: Updated for version 111.4.472.
+network/gajim: Fix download link.
+network/i2pd: Updated for version 2.35.0.
+network/lighttpd: Updated for version 1.4.56.
+network/mattermost-desktop: Updated for version 4.6.1.
+network/mkvserver_mk2: Updated for version 20201203_c62abc3.
+network/opera-developer: Updated for version 74.0.3890.0.
+network/opera: Updated for version 72.0.3815.400.
+network/prosody-mod-cloud-notify: Updated for version hg4273.
+network/qutebrowser-tox: Updated for version 1.14.1.
+network/qutebrowser: Updated for version 1.14.1.
+network/rclone: Updated for version 1.53.3.
+network/signal-desktop: Updated for version 1.38.2.
+network/weboob: Removed (requested by maintainer).
+office/lyx: Updated for version 2.3.6.
+office/wps-office: Update DOWNLOAD url.
+perl/perl-Date-Manip: Updated for version 6.83.
+perl/perl-PAR-Dist: Updated for version 0.51.
+perl/perl-cairo: Updated for version 1.108.
+python/pychm: Updated for version 0.8.6.
+python/pyotp: Updated for version 2.4.1.
+system/Solaar: Add missing dependency.
+system/bonnie++: Update for version 1.04
+system/gnu-unifont: Updated for version 13.0.04, added OTB font format.
+system/intelmas: Updated for version 1.4.
+system/letsencrypt: Updated for version 1.10.1.
+system/sleuthkit: Updated for version 4.10.1.
+system/telegraf: Updated for version 1.16.3.
+system/ticpp: Added (xml parser).
+system/worker: Updated for version 4.6.1.
++--------------------------+
+Sat Nov 28 18:03:26 UTC 2020
+audio/muse: Updated for version 3.1.1.
+desktop/herbe: Added (Daemon-less notifications without D-Bus)
+development/arm-binutils: Updated for version 2.35.
+development/arm-gcc: Updated for version 10.2.0.
+development/arm-gdb: Updated for version 10.1.
+development/composer: Updated for version 2.0.7
+development/cproto: Added (generate function prototypes for C code)
+development/d-tools: Updated for version 2.094.2
+development/dbeaver-ce: Updated for version 7.2.5.
+development/dmd: Updated for version 2.094.2
+development/fossil: Updated for version 2.13.
+development/git-lfs: Updated for version 2.12.1.
+development/github-cli: Updated for version 1.3.0
+development/kotlin: Updated for version 1.4.20.
+development/nodejs: Updated for version 12.20.0.
+development/racket: Fix md5sum.
+development/rustup: Updated for version 1.23.0.
+development/universal-ctags: Updated for version e1acc8d
+games/VASSAL: Updated for version 3.4.10.
+games/VASSAL: Updated for version 3.4.9.
+gis/Fiona: Updated for version 1.8.18.
+graphics/embree: Added (ray tracing kernels)
+graphics/imv: Added (image viewer for X and/or Wayland)
+graphics/meh: Fix README.
+graphics/vuescan: Updated MD5SUMs.
+libraries/libnsgif: Added (gif image decoder library)
+libraries/pugixml: Updated for version 1.11.
+libraries/wimlib: Updated for version 1.13.3.
+misc/cp437: Added (emulate code page 437 on a UTF-8 terminal)
+multimedia/plexmediaserver: Updated for v 1.21.0.3616_d87012962.
+network/asterisk: Updated for version 16.15.0.
+network/basilisk-bin: Updated for version 2020.10.29, fix dl URL.
+network/brave-browser: Updated for version 1.17.73.
+network/ircII: Added (IRC Client, Second Edition)
+network/nordvpn: Updated for version 3.8.6.
+network/protonmail-bridge: Updated for version 1.5.2.
+network/teamviewer: Updated for version 15.12.4.
+network/xaric: Updated for version 0.13.7.
+office/MasterPDFEditor: Updated for version 5.6.80.
+office/calibre-bin: Updated for version 5.6.0.
+office/pandoc-bin: Updated for version 2.11.2.
+office/teapot: Add missing diffs.
+office/wps-office: Updated for version 11.1.0.9719.XA.
+perl/MoarVM: Updated for version 2020.11.
+perl/nqp: Updated for version 2020.11.
+perl/rakudo: Updated for version 2020.11.
+perl/zef: Updated for version 0.9.4.
+python/npm: Added (Python bindings and utils for npm.)
+python/optional-django: Added (Utils for optional django support)
+python/pyserial: Updated for version 3.5.
+python/python-webpack: Added (high-level i/face to webpack server)
+system/apg: Added (automated password generator)
+system/conspy: Added (take control of a virtual console)
+system/kfc: Added (terminal-emulator color palette setter)
+system/usermin: Updated for version 1.812.
+system/vagrant: Updated for version 2.2.14.
+system/webmin: Updated for version 1.962.
+system/xcdroast: Updated for version 1.19.
++--------------------------+
+Sat Nov 21 18:15:13 UTC 2020
+academic/IGV: Added (Integrative Genomics Viewer)
+academic/cadabra2: Updated for version 2.3.5.
+academic/gcompris-qt: Updated for version 1.0.
+audio/amSynth: Updated for version 1.12.2.
+audio/gmusicbrowser: Updated for version 1.1.16.
+desktop/autorandr: Updated for version 1.11.
+desktop/x-tile: updated for version 3.3
+development/bviplus: Added (hex editor with vi-style UI)
+development/codespell: Added (spell checker for source code)
+development/dbeaver-ce: Updated for version 7.2.4.
+development/hexe: Added (minimalist hex editor)
+development/hexer: Added (hex editor with vi-like UI)
+development/hugo: Updated for version 0.78.2.
+development/icdiff: Added (improved color diff)
+development/openjdk7: Updated for version 7u271.
+development/openjdk8: Updated for version 8u252.
+development/tiled: updated for version 1.4.3
+development/tkdiff: Updated for version 5.1.
+games/gzdoom: Add missing patch.
+games/hack-of-life: Added (networked Conway's Life variant)
+games/img2xterm: Added (display images on the terminal)
+games/sumeria: Added (hamurabi-like game)
+graphics/vuescan: Updated MD5SUMs.
+libraries/libinput: Updated for version 1.16.3.
+libraries/libseccomp: Updated for version 2.5.1.
+libraries/libtorrent-rasterbar: Updated for version 1.2.11.
+libraries/libwacom: Updated for version 1.6.
+misc/deroff: Added (remove *roff markup from text files)
+misc/txt2regex: Added (interactive regular expression trainer)
+multimedia/MediathekView: Updated for version 13.6.0.
+multimedia/plexmediaserver: Updated for v 1.20.5.3600_47c0d9038.
+network/AdGuardHome: Updated for version 0.104.3.
+network/Electrum: Updated for version 4.0.5.
+network/brave-browser: Updated for version 1.16.76.
+network/coturn: Updated for version 4.5.1.3.
+network/cyrus-imapd: Updated for version 3.2.4.
+network/dropbear: Updated for version 2020.81.
+network/dropbox: Updated for version 110.4.458.
+network/franz: Updated for version 5.6.1.
+network/icyque: Added (ICQ WIM protocol for libpurple)
+network/krb5: Updated for version 1.18.3.
+network/onedrive: Updated for version 2.4.7.
+network/opera-developer: Updated for version 74.0.3870.0.
+network/opera: Updated for version 72.0.3815.320.
+network/prosody-mod-cloud-notify: Updated for version hg4221.
+network/prosody-mod-smacks: Updated for version hg4189.
+network/pulse-sms: Updated for version 4.3.0
+network/qbittorrent-qt5: Updated for version 4.3.0.1.
+network/rclone: Updated for version 1.53.2.
+network/signal-desktop: Updated for version 1.38.1.
+network/ssh-chat: Added (IRC-like chat server using ssh as a client)
+network/strongswan: Fix the no-clobber routine.
+network/surl: Added (URL shortener)
+network/tinyirc: Added (tiny IRC client)
+network/tor-browser: Updated for version 10.0.5.
+network/xaric: Added (simple colorful IRC client)
+network/zeek: Updated for version 3.0.11.
+office/diction: Added (grammar checker)
+office/onlyoffice-desktopeditors: Updated for version 6.0.2.
+office/pandoc-bin: Updated for version 2.11.1.1.
+office/pdfstudio: Updated for version 2020.2.0.
+office/pdfstudioviewer: Updated for version 2020.2.0.
+office/teapot: Fix fltk build, README.
+office/uncsv: Added (convert to or from CSV streams)
+office/x_x: Added (view Excel or CSV files in the terminal)
+perl/perl-Moo: Updated for version 2.004003.
+perl/perl-PAR-Dist: Updated for version 0.50.
+perl/perl-Template-Toolkit: Updated for version 3.009.
+python/python-requests: Updated for version 2.25.0.
+python/thonny: Updated for version 3.3.0.
+python/typing-extensions: Updated for version 3.7.4.3.
+python/vine: Updated for version 5.0.0.
+python/watchdog: Updated for version 0.10.3.
+ruby/ruby-build: Updated for version 20201118.
+system/Sl: Added (ls with enhancements)
+system/binfmt-support: Updated for version 2.2.1.
+system/fdclone: Added (two-pane textmode file manager)
+system/hexec: Added (hook into exec calls)
+system/intel-microcode: Updated for version 20201110.
+system/lv: Add patches, BUILD=2.
+system/qemu: Updated for version 4.1.1
+system/restric: Updated for version 0.11.0
+system/usbguard: Updated for version 0.7.8.
+system/xbattmon: Updated for version 1.1.
+system/xboxdrv-linux: Source change. Rebuilt.
+system/xidel: Added (extract data from HTML/XML/JSON files or pages)
++--------------------------+
+Sat Nov 14 10:17:36 UTC 2020
+academic/cadabra2: Updated for version 2.3.3.2.
+academic/cdo: Updated for version 1.9.9.
+academic/colin: Various fixes. Rebuilt.
+audio/FAudio: Updated for version 20.11.
+audio/alsacap: Use https URLs.
+audio/connie: Use a homepage that exists.
+audio/fluidsynth: Updated for version 2.1.5.
+desktop/cwm: Use correct github URLs.
+development/Fennel: Updated for version 0.7.0.
+development/Sphinx: Updated for version 3.3.1.
+development/asl: Updated for version 142_bld178.
+development/bsdiff: Fix download URL.
+development/cmake-202x: Updated for version 3.18.4.
+development/github-cli: Updated for version 1.2.1
+development/mongodb-compass: Updated for version 1.23.0.
+development/mrustc: Updated for version 0.9.
+development/racket: Updated for version 7.9.
+development/tea: updated for version 50.1.0
+development/vscode-bin: Updated for version 1.51.1.
+development/vstudio: Update MD5SUM.
+games/FlightGear-data: Updated for version 2020.3.2.
+games/FlightGear: Updated for version 2020.3.2.
+games/SLADE: Updated for version 3.1.12a.
+games/VASSAL: Updated for version 3.4.8.
+games/ags: updated for version 3.5.0.27
+games/commandergenius: Updated for version 2.6.3.1.
+games/exult: Updated for version 1.6.
+games/golly: Updated for version 4.0.
+games/gzdoom: Updated for version 4.5.0.
+games/ncursesoflife: Added (console Conway's Game of Life)
+games/tome-sx: Version number cleanup.
+games/xcowsay: Fix download link.
+gis/cartopy: Updated md5sum.
+gis/pointcloud: Updated for version 1.2.1.
+gis/saga-gis: Updated for version 7.8.1.
+graphics/blender: Fix download for x86.
+graphics/graphite2: Updated for version 1.3.14.
+graphics/libplacebo: Updated for version 2.72.2.
+graphics/vuescan: Updated for version 9.7.37..
+libraries/OpenBLAS: Updated for version 0.3.12.
+libraries/SimGear: Updated for version 2020.3.2.
+libraries/digimend-kernel-drivers: Updated for version 10.
+libraries/fmt: Updated for version 7.1.2.
+libraries/iddawc: updated for version 0.9.7
+libraries/libcbor: updated for version 0.8.0
+libraries/libjwt: updated for version 1.12.1
+libraries/libxkbcommon: Compress man pages.
+libraries/libxml++3: Updated for version 3.2.2.
+libraries/oath-toolkit: Updated for version 2.6.4.
+libraries/rhonabwy: updated for version 0.9.13
+libraries/ulfius: updated for version 2.6.10
+libraries/zmusic: Updated for version 1.1.4.
+multimedia/lightspark: Updated for version 0.8.3.
+multimedia/straw-viewer: Updated for version 0.1.1.
+network/AdGuardHome: Updated for version 0.104.1.
+network/glewlwyd: updated for version 2.4.0
+network/mod_auth_gssapi: Updated for version 1.6.3.
+network/ncp: Added (fast file copy tool for LANs)
+network/nicotine+: Updated for version 2.1.2.
+network/protonmail-bridge: Updated for version 1.5.0.
+network/protonmail-import-export-app: Added (ProtonMail App).
+network/protonvpn-cli: Added (ProtonVPN's Linux CLI)
+network/sfeed: Updated for version 0.9.19.
+network/sic: New maintainer.
+network/tor-browser: Updated for version 10.0.4.
+network/tor: Updated for version 0.4.4.6.
+network/tribler: Orphaned.
+network/vivaldi: Updated for version 3.4.2066.106.
+network/weechat: Updated for version 3.0.
+network/wireguard-linux-compat: Updated for version 1.0.20201112.
+network/zoom-linux: Updated for version 5.4.53391.1108
+office/calibre-bin: Updated for version 5.5.0.
+office/onlyoffice-desktopeditors: Updated for version 6.0.1.
+office/xournalpp: Updated for version 1.0.19.
+python/BeautifulSoup4: Updated for version 4.9.3.
+python/josepy: Updated for version 1.5.0.
+python/pycryptodomex: Updated for version 3.9.9.
+python/python-PySnooper: Updated for version 0.4.2.
+python/python-jsonrpclib: Updated for version 0.4.2.
+python/python-toml: Updated for version 0.10.2.
+python/python3-babel: Updated for version 2.8.1.
+system/Solaar: Updated for version 1.0.4
+system/chronograf: Updated for version 1.8.8
+system/colorize: Added (colorize text on terminal)
+system/fzf: Updated for version 0.24.3.
+system/jdupes: updated for version 1.19.0
+system/kapacitor: Updated for version 1.5.7
+system/lv: Added (pager, grep, and iconv replacement)
+system/memtester: Updated for version 4.5.0_1.
+system/nvidia-driver: Fix issue with .la handling.
+system/s3fs-fuse: Added (FUSE-based file system)
+system/s6-linux-init: Updated for version 1.0.5.1.
+system/telegraf: Updated for version 1.16.2
+system/tinyvm: Updated for version 20180322.
+system/vtcol: Compile with latest rust in patches.
+system/xbattmon: Download URL changed.
++--------------------------+
+Sat Nov  7 07:03:35 UTC 2020
+academic/ViennaRNA: Updated for version 2.4.16.
+academic/cadabra2: Updated for version 2.3.2.
+academic/colin: Updated for version 1.8.2.
+accessibility/svkbd: Updated for version 0.2.1.
+accessiblity/mag: Added (screen magnifier for X).
+audio/drumkv1: Updated for version 0.9.18.
+audio/guitarix: Add note to README.
+audio/jack: Updated for version 1.9.16.
+audio/jkmeter: Updated for version 0.8.0.
+audio/mixxx: Fix build.
+audio/padthv1: Updated for version 0.9.18.
+audio/podget: Updated for version 0.8.7, various fixes.
+audio/qm-vamp-plugins: Updated for version 1.8.0.
+audio/rubberband: Updated for version 1.9.0.
+audio/samplv1: Updated for version 0.9.18.
+audio/sonic-visualiser: Updated for version 4.2.
+audio/sooperlooper: Updated for version 1.7.6.
+audio/synthv1: Updated for version 0.9.18.
+audio/zita-ajbridge: Updated for version 0.8.4.
+desktop/clipmenu: Updated for version 6.2.0.
+desktop/j4-dmenu-desktop: Updated for version 2.18.
+desktop/pinentry-dmenu: Added (pinentry program)
+desktop/wmii: Fix man page. Add DOC make option.
+desktop/xdgmenumaker: Updated for version 1.6.
+development/adms: Fix script.
+development/bmake: Updated for version 20201010.
+development/gnulib: Find/chmod speedup.
+development/hugo: Updated for version 0.78.0.
+development/inform: Updated for version 6.34_6.12.4_1.
+development/jdk15: Updated for version 15.0.1.
+development/jupyter-notebook: Updated for version 6.1.4.
+development/racer: Updated for version 2.1.40.
+development/radare2: Updated for version 4.5.1.
+development/reflex: Updated for version 2.5.4.20200715.
+development/vstudio: Updated for version 10.
+development/watchman: Nitpicks.
+development/xtruss: Updated for version 20200918.a94a153.
+games/aisleriot: Update doinst.sh.
+games/fortune-noobfarm: Added (fortunes from noobfarm.org).
+games/mininim: Minor script edit.
+games/stella: Updated for version 6.4.
+games/xcowsay: Updated for version 1.5.1.
+games/zseal: Added (FICS Timeseal client).
+gis/OTB: Updated for version 7.2.0.
+gis/geopandas: Updated for version 0.8.0.
+gis/pgsql-ogr-fdw: Updated for version 1.0.12.
+gis/proj-data: Updated for version 1.3.
+gis/proj: Updated for 7.2.0.
+gis/pyproj: Updated for version 3.0.0.
+graphics/Blender: Updated for version 2.83.8
+graphics/SPIRV-Tools: Added (API+commands to process SPIR-V modules)
+graphics/Vulkan-Tools: Added (Vulkan Utilities and Tools)
+graphics/blender: Updated for version 2.90.1
+graphics/flpsed: Fix URLs, include icons.
+graphics/glslang: Updated for version 11.0.0.
+graphics/libplacebo: Update patch.
+graphics/qrencode: Updated for version 4.1.1.
+graphics/shaderc: Update script.
+graphics/vuescan: Updated for version 9.7.36.
+graphics/vulkan-sdk: Update script.
+libraries/SPIRV-Headers: Added (SPIRV Header files)
+libraries/Vulkan-Headers: Added (Vulkan Headers and API registry)
+libraries/gdl: Fix sandbox violation on current.
+libraries/jbig2dec: Updated for version 0.19.
+libraries/libbson: Updated for version 1.17.2.
+libraries/libcdr: Fix build for current.
+libraries/libdispatch: Added (Grand Central Dispatch)
+libraries/libe-book: Fix build for current.
+libraries/libpst: Fix VERSION in info file.
+libraries/libxkbcommon: Updated for version 1.0.1.
+libraries/mbedtls: Updated for version 2.16.8.
+libraries/pytaglib: Added (Python audio tagging library).
+multimedia/LBRY: Updated for version 0.48.2.
+multimedia/plexmediaserver: Updated for v. 1.20.4.3517_ab5e1197c.
+network/bozohttpd: Updated for version 20201014.
+network/efax: Added (send/receive fax).
+network/elinks: Fix SLKCFLAGS.
+network/felinks: Updated for version 08da1d8.
+network/nss-mdns: Updated for version 0.14.1.
+network/opera-developer: Updated for version 73.0.3856.0.
+network/opera: Updated for version 72.0.3815.186.
+network/signal-desktop: Updated for version 1.37.3.
+network/sslscan: Updated for version 2.0.6.
+network/telegram: Updated for version 2.4.6.
+network/telegram: Updated for version 2.4.7.
+network/vivaldi: Updated for version 3.4.2066.94.
+network/yadifa: Updated for version 2.4.0.
+office/coolreader: Updated for version 3.2.50, keyboard shortcuts.
+perl/perl-Coro: Compress manual pages.
+python/argon2-cffi: Added (Python implementation of Argon2).
+python/bleach: Updated for version 3.2.1.
+python/esptool: Updated for version 3.0.
+python/parso: Updated for version 0.8.0.
+python/python-emoji: Updated for version 0.6.0.
+python/python-importlib_metadata: Updated for version 2.0.0.
+python/python-joblib: Updated for version 0.17.0.
+python/python-prometheus_client: Updated for version 0.8.0.
+python/python3-ipython: Updated for version 7.19.0.
+python/python3-prompt_toolkit: Updated for version 3.0.8.
+python/python3-tornado: Updated for version 6.1.0.
+python/scikit-learn: Updated for version 0.23.2.
+system/Iosevka-slab: Updated for version 3.7.1.
+system/Iosevka: Updated for version 3.7.1.
+system/alacritty: Updated for version 0.4.3.
+system/bleachbit: Update script.
+system/cpmtools: Updated for version 2.21.
+system/esekeyd: Added (multimedia keyboard daemon for Linux).
+system/fzf: Updated for version 0.24.2.
+system/info2man: Updated for version 1.1_9.
+system/kitchen-sync: Updated for version 2.10.
+system/man-pages-ja: Updated for version 20201015.
+system/man-pages-ru: Updated for version 5.03_20191017, new maint.
+system/mmv: Added (multiple mv/rename).
+system/oksh: Updated for version 6.8.1.
+system/passwordsafe: Updated for version 1.12.0.
+system/reptyr: Updated for version 0.8.0.
+system/triggerhappy: Added (a lightweight global hotkey daemon).
++--------------------------+
+Sat Oct 31 04:17:01 UTC 2020
+academic/SeqMonk: Added (A Mapped Sequence Analysis tool)
+academic/cadabra2: Updated for version 2.3.1.15.
+academic/fet: Updated for version 5.47.0.
+accessibility/wgetpaste: Update README.
+accessibility/xsel: Fix build on -current.
+audio/alsacap: Tweak script.
+audio/puddletag: Updated for version 2.0.1. New Maintainer.
+audio/sooperlooper: Updated for version 1.7.4.
+desktop/cwm: Updated for version 6.7.
+desktop/fvwm3: Rebuilt.
+desktop/wmweather+: Updated for version 2.18.
+desktop/x2x: Added (share keyboard/mouse across multiple X displays)
+development/Sphinx: Updated for version 3.2.1.
+development/composer: Updated for version 2.0.2
+development/d-tools: Updated for version 2.094.1
+development/dbeaver-ce: Updated for version 7.2.3.
+development/dmd: Updated for version 2.094.1
+development/dwarf: Removed (use libdwarf).
+development/github-cli: Updated for version 1.2.0.
+development/hhvm: Updated for version 4.56.1
+development/jupyter-nbdime: Updated for version 2.1.0.
+development/jupyter-nbformat: Updated for version 5.0.6.
+development/jupyter_client: Updated for version 6.1.6.
+development/jupyter_console: Updated for version 6.2.0.
+development/nim: Updated for version 1.4.0.
+development/psycopg2: Updated for version 2.8.6.
+development/xa: Updated for version 2.3.11.
+development/xxd-standalone: Added (hex dump utility from vim)
+games/VASSAL: Updated for version 3.4.7.
+games/alephone: Updated for version 20201026.
+games/atari++: Updated for version 1.83.
+games/colem: Updated for version 5.4.
+games/commandergenius: Updated for version 2.6.3.
+games/doomseeker: Updated for version 1.3.1.
+games/gzdoom: Updated for version 4.4.2.
+games/marathon-data: Updated for version 20200904.
+games/marathon-infinity-data: Updated for version 20200904.
+games/marathon2-data: Updated for version 20200904.
+games/odamex: Updated for version 0.8.3.
+games/open-adventure: Updated for version 1.9.
+games/puNES: Updated for version 0.106.
+games/qtads: Updated for version 3.0.0.
+games/qzdoom: Build enhancements.
+games/solarus: Add patch.
+games/stella: Updated for version 6.3.
+games/trackballs: Updated for version 1.3.1.
+games/uqm: Updated for version 0.7.0+0.8.0.
+games/uqm_3domusic: Add note to README.
+games/uqm_voice: Updated for version 0.8.0.
+games/vera: Updated for version 1.24.
+games/xroar: Updated for version 0.36.2.
+gis/osm2pgsql: Updated for version 1.3.0.
+gis/pyshp: Updated for version 2.1.2.
+gis/python-pygeos: Updated for version 0.8.
+gis/rasterio: Updated for version 1.1.8.
+gis/saga-gis: Updated for version 7.8.0.
+graphics/vuescan: Updated MD5SUMs.
+graphics/wine-nine-standalone: Updated for version 0.7.
+libraries/QR-Code-generator: Added (QR Code generator library)
+libraries/fmt: Updated for version 7.1.0.
+libraries/gumbo-parser: Added (An HTML5 parsing library in pure C99)
+libraries/libcdr: Updated for version 0.1.6.
+libraries/libetonyek: Fix build on current.
+libraries/libfreehand: Fix build on current.
+libraries/libgltf: Removed.
+libraries/libixion: Updated for version 0.16.1.
+libraries/libmwaw: Updated for version 0.3.17.
+libraries/libnbcompat: Added (a portable NetBSD compat library)
+libraries/libnumbertext: Updated for version 1.0.6.
+libraries/liborcus: Updated for version 0.16.1.
+libraries/libpst: Updated for version 0.6.74.
+libraries/libstaroffice: Updated for version 0.0.7.
+libraries/libuv: Updated for version 1.40.0.
+libraries/libwps: Updated for version 0.4.12.
+libraries/mdds: Updated for version 1.7.0.
+libraries/spdlog: Updated for version 1.8.1.
+libraries/xmlsec: Updated for version 1.2.31.
+libraries/zmusic: Added (library for music support in games)
+misc/git-store-meta: Added (metadata storing and applying for Git)
+misc/heyu: Updated for version 2.10.2.
+misc/vttest: Updated for version 2.7.20200920.
+multimedia/plexmediaserver: Updated for v 1.20.3.3483_211702a9f.
+multimedia/youtube-viewer: Orphaned.
+network/AdGuardHome: Updated for version 0.104.0.
+network/freedownloadmanager: Added (Download Accelerator)
+network/i2pd: Updated for version 2.34.0.
+network/luakit: Updated for version 2.2.1.
+network/megatools: Updated for version 1.10.3.
+network/neomutt: configure flags and README updated.
+network/nsd: Updated for version 4.3.3.
+network/sslscan: Updated for version 2.0.5.
+network/teamviewer: Updated for version 15.11.6.
+network/telegram: Updated for version 2.4.5.
+network/tnftp: Updated for version 20200705.
+network/vivaldi: Updated for version 3.4.2066.90.
+network/wire: Updated for version 3.21.2936.
+network/wireshark: Updated for version 3.4.0.
+network/zoom-linux: Updated for version 5.4.53268.1025
+office/FreeOffice: Added (free alternative to Microsoft Office)
+office/calcurse: Updated for version 4.7.0.
+office/calibre-bin: Updated for version 5.4.2.
+office/keepassxc: Updated for version 2.6.2.
+office/mupdf: Updated for version 1.18.0.
+office/zim: Updated for version 0.73.3.
+perl/MoarVM: Updated for version 2020.10.
+perl/nqp: Updated for version 2020.10.
+perl/perl-Coro: Updated for version 6.57.
+perl/perl-List-MoreUtils-XS: Updated for version 0.430.
+perl/perl-YAML-Syck: Updated for version 1.34.
+perl/perl-file-libmagic: Updated for version 1.23.
+perl/perl-file-mimeinfo: Updated for version 0.30.
+perl/rakudo: Updated for version 2020.10.
+perl/zef: Updated for version 0.9.1.
+python/Pygments: Updated for version 2.7.2.
+python/cheetah3: Updated for version 3.2.6.
+python/pandocfilters: Updated for version 1.4.3.
+python/python-PySnooper: Updated for version 0.4.1.
+python/python3-babel: Support Python 3.9.
+python/python3-ipython: Updated for version 7.18.3.
+python/python3-isort: Updated for version 5.6.4.
+python/python3-jedi: Updated for version 0.17.2.
+python/python3-jupyter-ipykernel: Updated for version 5.3.4.
+python/python3-prompt_toolkit: Updated for version 3.0.6.
+python/python3-pyrsistent: Updated for version 0.17.3.
+python/pyzmq: Updated for version 19.0.2.
+python/sphinxcontrib-websupport: Updated for version 1.2.4.
+python/terminado: Updated for version 0.9.1.
+python/traitlets: Updated for version 5.0.5.
+system/acpi_call: Allow acpi_call to be built with 5.x kernels.
+system/agedu: Updated for version 20200705.2a7d4a2.
+system/ded: Updated for version 20200428.
+system/dust: Updated for version 0.5.3.
+system/epson-inkjet-printer-escpr2: Updated for version 1.1.24.
+system/fzf: Updated for version 0.24.1.
+system/kitchen-sync: Updated for version 2.9.
+system/loksh: Updated for version 6.8.1.
+system/man-db: Updated for version 2.9.3.
+system/netdata: Updated for version 1.26.0.
+system/nmtree: Added (a port of NetBSD's mtree utility to Linux)
+system/oksh: Updated for version 6.7.1.
+system/pspg: Updated for version 3.1.5.
+system/telegraf: Updated for version 1.16.1
+system/usermin: Updated for version 1.810.
+system/webmin: Updated for version 1.960.
+system/wine-staging: Updated for version 5.20.
+system/xen: XSA 333-347 update.
++--------------------------+
+Sat Oct 24 01:15:32 UTC 2020
+academic/ngspice: Updated for version 33.
+audio/amSynth: Updated for version 1.11.0.
+desktop/dunst: Updated for version 1.5.0.
+desktop/i3: Updated for version 4.18.3.
+desktop/rofi: Updated for version 1.6.0.
+development/eclipse-cpp: Updated for version 4.15.
+development/eclipse-java: Updated for version 4.15.
+development/eclipse-platform: Added (Eclipse IDE)
+development/github-cli: Added (GitHub command line interface)
+development/global: Updated for version 6.6.5.
+development/hugo: Updated for version 0.76.5.
+development/jdk14: Fix README.
+development/mit-scheme: Updated for version 10.1.11.
+development/mongodb-compass: Updated for version 1.22.1.
+development/rustup: Fix README.
+games/QuickNES-Core: Added (fast NES libretro core)
+games/VASSAL: Updated for version 3.4.6.
+games/chocolate-doom: Updated for version 3.0.1.
+games/mame2000-libretro: Updated for version 2020.10.21_6655a51.
+games/mednafen: Updated for version 1.24.3.
+games/oolite: Updated for version 1.90.
+graphics/GraphicsMagick: Updated for version 1.3.35.
+graphics/fontforge: Add trap to exit if already installed.
+graphics/gmic: Enable build with latest opencv (4.5.0)
+graphics/graphene: Fix README.
+graphics/libplacebo: Use upstream patch.
+graphics/lilypond: Fix FontForge detection.
+graphics/vuescan: Updated MD5SUMs.
+libraries/zeromq: Updated for version 4.3.3.
+misc/g810-led: Added (LED controller for Logitech Gx10 keyboards)
+misc/moreutils: Updated for version 0.64.
+multimedia/plexmediaserver: Updated for v 1.20.3.3437_f1f08d65b.
+network/Electrum: Updated for version 4.0.4.
+network/QuiteRSS: Updated for version 0.19.4.
+network/bluejeans: Updated for version 2.17.0.11.
+network/opera-developer: Updated for version 73.0.3847.0.
+network/opera: Updated for version 72.0.3815.148.
+network/protonmail-bridge: Updated for version 1.4.4.
+network/protonmail-bridge: Updated for version 1.4.5
+network/signal-desktop: Updated for version 1.37.2.
+network/telegram: Updated for version 2.4.4.
+network/tor-browser: Updated for version 10.0.2.
+network/vivaldi: Updated for version 3.4.2066.86.
+network/yle-dl: Updated for version 20201022.
+network/zoom-linux: Fix VERSION, slack-desc.
+network/zoom-linux: Fix VERSION.
+office/coolreader: Updated for version 3.2.49.
+office/pandoc-bin: Updated for version 2.11.0.2.
+perl/perl-Glib-Object-Introspection: Updated for version 0.049.
+perl/perl-cgi-minimal: Updated for version 1.30.
+python/python3-isort: Updated for version 5.6.1.
+system/firejail: Updated for version 0.9.64.
+system/fzf: Fix info.
+system/megacli: Added (LSI hardware RAID management utility)
+system/nvme-cli: Updated for version 1.13.
+system/phoronix-test-suite: Updated for version 10.0.1.
+system/powerpanel: Updated for version 1.3.3.
+system/restic: Added (Modern backup program to backup your files)
+system/rhash: Updated for version 1.4.0.
+system/sleuthkit: Updated for version 4.10.0.
+system/system76-power: Updated for version 1.1.11
++--------------------------+
+Sat Oct 17 02:41:30 UTC 2020
+academic/CAFS_divergence: Fix README.
+academic/FreeFem: Fix README.
+academic/Gridcoin-Research: Fix README.
+academic/ITK: Fix README.
+academic/Kst: Fix README.
+academic/MetaPhlAn2: Fix README.
+academic/Mnemosyne: Fix README.
+academic/OpenFOAM: Fix README.
+academic/PyAMG: Fix README.
+academic/ViennaRNA: Fix README.
+academic/WordNet: Fix README.
+academic/Xyce: Fix README.
+academic/abella: Fix README.
+academic/aenig4: Fix README.
+academic/amd: Fix README.
+academic/antiprism: Fix README.
+academic/aris: Fix README.
+academic/armadillo: Fix README.
+academic/arpack-ng: Fix README.
+academic/artha: Fix README.
+academic/avogadro: Fix README.
+academic/bibus: Fix README.
+academic/boinc: Fix README.
+academic/bpp1.9-phyl: Fix slack-desc.
+academic/btf: Fix README.
+academic/calcoo: Fix README.
+academic/cap3: Fix README.
+academic/cblas: Fix README.
+academic/cdo: Fix README, slack-desc, script.
+academic/cholmod: Fix README.
+academic/cld2: Fix README.
+academic/colin: Fix README.
+academic/convertall: Fix README.
+academic/csparse: Fix README.
+academic/dakota: Fix README.
+academic/ed-v6: Fix README.
+academic/engauge: Fix README.
+academic/ess: Fix README.
+academic/fann: Fix README.
+academic/fityk: Fix README.
+academic/flann: Fix README.
+academic/free42: Fix README.
+academic/gcompris-qt: Fix README.
+academic/gcompris: Fix README.
+academic/geda-gaf: Fix README.
+academic/gerbv: Fix README.
+academic/getdp: Fix README, slack-desc.
+academic/ggobi: Fix README.
+academic/gmsh: Fix README, slack-desc.
+academic/gnucap: Fix README.
+academic/grace: Fix README.
+academic/grpn: Fix README.
+academic/gtkwave: Fix README.
+academic/jpicedt: Fix README.
+academic/kiwisolver: Fix README.
+academic/klu: Fix README.
+academic/lapack95: Convert script to utf-8.
+academic/lapacke: Fix README.
+academic/ldl: Fix README.
+academic/libqalculate: Fix README.
+academic/link-grammar: Fix README.
+academic/mathomatic: Fix README.
+academic/meep: Fix README, slack-desc.
+academic/mpb: Fix README, slack-desc.
+academic/nco: Remove template comments.
+academic/pari: Fix README.
+academic/parmetis: Fix README.
+academic/pianobooster: Fix README.
+academic/sage: Fix README, info.
+academic/scipy: Fix README.
+academic/siril: Fix README.
+academic/stellarium: Fix README.
+academic/suitesparseconfig: Fix README.
+academic/tiemu: Fix README.
+academic/treerecs: Fix README, install doinst.
+academic/tuxmath: Fix README.
+academic/verilog: Fix README.
+academic/wmcalc: Fix README.
+academic/xephem: Fix README.
+academic/xfoil: Fix README.
+accessibility/Synkron: Fix README.
+accessibility/easystroke: Fix README.
+accessibility/speech-dispatcher: Fix dep.
+accessibility/svox: Fix README.
+accessibility/unclutter: Fix README.
+accessibility/xdotool: Fix README.
+audio/MusicMixer: Fix README.
+audio/SuperCollider: Fix README.
+audio/TiMidity++: Fix README.
+audio/alsa-plugin-ffmpeg: Fix README.
+audio/alsamodularsynth: Fix README.
+audio/apulse: Fix README.
+audio/audacious-cue: Fix README.
+audio/calf-ladspa: Fix README.
+audio/calf: Fix README.
+audio/caps: Fix README.
+audio/carla: Fix README.
+audio/chuck: Fix README.
+audio/clam: Fix README.
+audio/connie: Fix README.
+audio/creox4: Fix README.
+audio/cuberok: Fix README.
+audio/decibel-audio-player: Fix README.
+audio/dssi-vst: Fix README.
+audio/eawpats: Fix README.
+audio/ezstream: Fix README, info.
+audio/flac123: Fix README.
+audio/fluid-soundfont: Fix README.
+audio/fluidsynth-dssi: Fix README.
+audio/fmit: Fix README.
+audio/gogglesmm: Fix README.
+audio/grip2: Fix README.
+audio/gtklick: Fix README.
+audio/guitarix: Fix README.
+audio/helm: Fix README.
+audio/herrie: Fix README.
+audio/horgand: Fix README.
+audio/ices-cc: Fix README.
+audio/jack-rack: Fix README.
+audio/jack1: Fix README.
+audio/jackmeter: Fix README.
+audio/jalv: Fix README.
+audio/jamulus: Fix README.
+audio/jvmetro: Fix README.
+audio/kid3: Fix README.
+audio/ladspa-bs2b: Fix README.
+audio/lastfm: Fix README.
+audio/libbs2b: Fix README.
+audio/linuxsampler: Fix README.
+audio/listener: Fix README.
+audio/llcon: Fix README.
+audio/lmms: Fix README.
+audio/lsmi: Fix README.
+audio/lv2dynparam1: Fix README.
+audio/mda-lv2: Fix README.
+audio/mhwaveedit: Fix README.
+audio/midillo: Fix README.
+audio/milkytracker: Fix README.
+audio/minimodem: Fix README.
+audio/mp3blaster: Fix README.
+audio/mp3splt-gtk: Fix README.
+audio/mp3splt: Fix README.
+audio/mppenc: Fix README.
+audio/mt-daapd: Fix README.
+audio/multimidicast: Fix README.
+audio/ncmpc: Fix README.
+audio/ngjackspa: Fix README.
+audio/non: Fix VERSION in .info.
+audio/non: Fix md5sum.
+audio/ntk: Add newline at end of .info.
+audio/ntk: Fix VERSION in .info.
+audio/ocp: Fix README.
+audio/opencore-amr: Fix README.
+audio/oss: Fix README.
+audio/pd: Fix README.
+audio/pd_mrpeach: Fix README.
+audio/pianobar: Fix README.
+audio/playmp3list: Fix README.
+audio/podget: Fix README.
+audio/pogo: Fix README.
+audio/portmidi: Fix README.
+audio/puddletag: Fix README.
+audio/pulseaudio-ctl: Updated for version 1.68.
+audio/python-audiotools: Fix README.
+audio/qm-vamp-plugins: Fix README.
+audio/qmidinet: Fix README.
+audio/quodlibet: Fix README.
+audio/rubyripper: Fix README.
+audio/rumor: Fix README.
+audio/sbagen: Fix README.
+audio/seq24: Fix README.
+audio/sfc: Fix README.
+audio/shell-fm: Fix README.
+audio/sonic-visualiser: Fix README.
+audio/soundconverter: Fix README.
+audio/swh-plugins-lv2: Fix README.
+audio/tagtool: Fix README.
+audio/tap_plugins: Fix README.
+audio/transcribe: Fix README.
+audio/tta: Fix README.
+audio/unsf: Fix README.
+audio/vcf_plugins: Fix README.
+audio/volti: Fix README.
+audio/volume.app: Fix README.
+audio/volwheel: Fix README.
+audio/wineasio: Fix README.
+audio/xforge: Fix README.
+audio/xmms-ladspa: Fix README.
+audio/xmms-scrobbler: Fix README.
+audio/xmms2: Fix README.
+audio/xmp: Fix README.
+business/AssociationSubscribersManager: Fix README.
+business/maltego: Fix README.
+business/openerp-client: Fix README.
+business/openerp-server: Fix README.
+business/reckon: Fix README.
+business/stansoft: Fix README.
+business/tryton: Fix README.
+business/trytond: Fix README.
+desktop/9menu: Fix README.
+desktop/ClipboardViewer: Fix README.
+desktop/LX-Colors-themes: Fix README.
+desktop/aero-mouse-theme: Fix README.
+desktop/afterstep: Fix README.
+desktop/ambiance-radiance-flat-colors-gtk-theme: Fix README.
+desktop/anki: Fix README.
+desktop/avant-window-navigator: Fix README.
+desktop/awesome-appmenu: Fix README.
+desktop/awoken-icon-theme: Fix README.
+desktop/bashish: Fix README.
+desktop/bmpanel2: Fix README.
+desktop/bukubrow: Fix README.
+desktop/cairo-compmgr: Fix README.
+desktop/clearlooks-phenix-theme: Fix README.
+desktop/clipmenu: Fix README.
+desktop/cmatrix: Fix README.
+desktop/compiz-boxmenu: Fix README.
+desktop/conky-manager: Fix README.
+desktop/crystal: Fix README.
+desktop/crystalcursors: Fix README.
+desktop/ctwm: Fix README.
+desktop/cwm-openbsd: Fix README.
+desktop/devilspie: Fix README.
+desktop/dmenu: Fix README.
+desktop/draco: Fix README.
+desktop/dzen2: Fix README.
+desktop/e16.theme.pack: Fix README.
+desktop/e16: Fix README, VERSION in .info.
+desktop/emerald: Fix README.
+desktop/faba-icon-theme: Fix README.
+desktop/ffmpegthumbnailer: Fix README.
+desktop/find-cursor: Fix README.
+desktop/flatpak-builder: Fix README.
+desktop/flatpak: Fix README.
+desktop/florence: Fix README.
+desktop/fvwm-crystal: Fix README.
+desktop/glabels: Fix README.
+desktop/herbstluftwm: Fix README.
+desktop/i3blocks: Remove template comments.
+desktop/i3lock: Fix README.
+desktop/i3minator: Fix README.
+desktop/icewm: Fix README.
+desktop/idesk: Fix README.
+desktop/ion: Fix README.
+desktop/j4-dmenu-desktop: Fix README.
+desktop/keynav: Fix README.
+desktop/lemonbar: Fix README.
+desktop/libqtxdg: Fix README.
+desktop/lumina: Fix README.
+desktop/macopix: Fix README.
+desktop/matrixgl: Fix README.
+desktop/mimi: Fix README.
+desktop/moka-icon-theme: Fix README, slack-desc.
+desktop/moka-minimal: Fix README.
+desktop/moka-themes: Fix README.
+desktop/mousepad: Fix README.
+desktop/murrine: Fix README.
+desktop/neutral: Fix README.
+desktop/nitrogen: Fix README.
+desktop/nitrokey-app: Fix README.
+desktop/obbrowser: Fix README.
+desktop/obmenu: Fix README.
+desktop/obshutdown: Fix README.
+desktop/openbox: Updated for version 3.6.1.
+desktop/parcellite: Fix README.
+desktop/peksystray: Fix README.
+desktop/pekwm: Fix README.
+desktop/perwindowlayoutd: Fix README.
+desktop/pidgin-libnotify: Fix README.
+desktop/plasma-eyasdp: Fix README.
+desktop/plasma-runner-browsefirefoxbookmarks: Fix README.
+desktop/pspshrink: Fix README.
+desktop/qtcurve: Fix README.
+desktop/qtpass: Fix README.
+desktop/ratpoison: Fix README.
+desktop/razercfg: Fix README.
+desktop/razorqt: Fix README.
+desktop/redshift: Fix README.
+desktop/rodent: Fix README.
+desktop/rofi: Fix README.
+desktop/rootactions_servicemenu: Fix README.
+desktop/sawfish: Fix README.
+desktop/screenkey: Fix README.
+desktop/spectrwm: Fix README, template comments.
+desktop/ssr: Fix README.
+desktop/stoken: Fix README.
+desktop/sun: Fix README.
+desktop/superkey-launch: Fix README.
+desktop/sxhkd: Fix README.
+desktop/thunar-archive-plugin: Fix README.
+desktop/thunar-dropbox: Fix README.
+desktop/thunar-media-tags-plugin: Fix README.
+desktop/thunar-thumbnailers: Fix README.
+desktop/tint2: Fix README.
+desktop/uwm: Fix README.
+desktop/vala-panel-appmenu: Fix README.
+desktop/vwm: Fix README.
+desktop/wally: Fix README.
+desktop/weston: Fix README.
+desktop/wmakerconf: Fix README.
+desktop/wmbattery: Fix README.
+desktop/wmcpufreq: Fix README.
+desktop/wmctrl: Fix README.
+desktop/wmii: Fix README.
+desktop/wmimagedock: Fix README.
+desktop/wmix: Fix README.
+desktop/wmname: Fix README.
+desktop/wmpinboard: Fix README.
+desktop/wmstickynotes: Fix README.
+desktop/wmsysmon: Fix slack-desc.
+desktop/wmtime: Fix README.
+desktop/wmtimer: Fix README.
+desktop/x-tile: Fix README.
+desktop/xdg-desktop-portal-gtk: Fix README.
+desktop/xdg-desktop-portal: Fix README.
+desktop/xdm-slackware-theme: Fix README.
+desktop/xed: Fix README.
+desktop/xfce4-embed-plugin: Fix README.
+desktop/xfce4-eyes-plugin: Fix README.
+desktop/xfce4-genmon-plugin: Fix README.
+desktop/xfce4-volumed-pulse: Fix README.
+desktop/xfce4-whiskermenu-plugin: Fix README.
+desktop/xsession: Fix README.
+desktop/xtrascreenhacks: Fix README.
+desktop/xtrlock: Fix README.
+desktop/xvkbd: Fix README.
+desktop/yawp: Fix README.
+development/4th: Fix README.
+development/Arduino: Fix README.
+development/Bottleneck: Fix README.
+development/CImg: Fix README.
+development/CVSTools: Fix README.
+development/Coin: Fix README.
+development/Editra: Fix README.
+development/Fennel: Fix README.
+development/GitEye: Fix README.
+development/J-Link: Fix README.
+development/Mk4tcl: Fix README.
+development/MySQL-python: Fix README.
+development/OpenHantek6022: Fix README.
+development/Pivy: Fix README.
+development/PythonToolkit: Fix README.
+development/ShellCheck-bin: Fix README.
+development/Sphinx: Fix README.
+development/WebStorm: Fix README.
+development/adms: Fix README, slack-desc.
+development/adoptopenjdk-openj9: Fix README.
+development/adoptopenjdk: Fix README.
+development/afl: Fix README.
+development/alloy: Fix README.
+development/amazon-corretto: Fix README.
+development/amd-app-sdk: Fix README.
+development/android-studio: Fix README.
+development/anjuta: Fix README.
+development/apache-ant: Fix README.
+development/apache-jmeter: Fix README.
+development/arduino: Fix README.
+development/arm-binutils: Fix README.
+development/asl: Fix README.
+development/asm6809: Fix README.
+development/astyle: Fix README.
+development/atasm: Fix README.
+development/avr-binutils: Fix README.
+development/avr8-gnu-toolchain: Fix README.
+development/avrdude: Fix README.
+development/bakefile: Fix README.
+development/bas55: Fix README.
+development/bashdb: Fix README.
+development/beav: Fix README.
+development/bed: Fix README.
+development/bigloo: Fix README.
+development/blassic: Fix README.
+development/bless: Fix README.
+development/bluefish: Fix README.
+development/bpython: Fix README.
+development/brackets: Fix README.
+development/brotli: Fix README.
+development/bsdiff: Fix README.
+development/cargo-vendor: Removed (part of cargo).
+development/cc65: Fix README.
+development/ccl: Fix README.
+development/cf-cli: Fix README, script.
+development/cgdb: Fix README.
+development/chibi-scheme: Fix README.
+development/cloc: Fix README.
+development/codeblocks: Fix README.
+development/complexity: Fix README.
+development/cpan2tgz: Fix README.
+development/cppcheck: Fix README.
+development/cppunit: Fix README.
+development/crosstool-ng: Fix README.
+development/crystal-lang: Fix README.
+development/cudatoolkit: Install doinst.
+development/cudnn: Fix README.
+development/cunit: Fix README.
+development/cvsd: Fix README.
+development/cvsps: Fix README.
+development/cxxtest: Fix README.
+development/d-tools: Fix README.
+development/dasht: Fix README.
+development/decklink-sdk: Fix README.
+development/dejagnu: Fix README.
+development/dhex: Fix README.
+development/diakonos: Fix README.
+development/diffuse: Fix README.
+development/dis6502: Fix README.
+development/dmd: Fix README.
+development/docutils: Fix README.
+development/dwarf: Fix README.
+development/dwz: Fix .info.
+development/eagle: Fix README.
+development/eclim: Fix README.
+development/eclipse-cpp: Updated for version 4.17.
+development/eclipse-java: Updated for version 4.17.
+development/eclipse-php: Fix README.
+development/edb-debugger: Fix README.
+development/egypt: Fix README.
+development/energia: Fix README.
+development/enki: Fix README.
+development/envytools: Fix README.
+development/eovim: Fix README.
+development/epydoc: Fix README.
+development/eric: Fix README.
+development/flawfinder: Fix README.
+development/flow: Fix README.
+development/fly: Fix README.
+development/fpc: Fix README.
+development/freetds: Fix README.
+development/frobtads: Fix README.
+development/fsharp: Fix README.
+development/ftnchek: Fix README.
+development/gcc-d: Fix README.
+development/gcclegacy494: Fix README.
+development/gedit: Fix README.
+development/gengetopt: Fix README.
+development/gforth: Fix README.
+development/gnats: Fix README.
+development/gnome-inform7: Fix README.
+development/gnustep-startup: Fix README.
+development/golang-googlecode-gonet: Fix README.
+development/golang-googlecode-gotools: Fix README.
+development/google-appengine-gosdk: Fix README.
+development/google-appengine-pysdk: Fix README.
+development/google-go-lang: Fix README.
+development/gradle: Fix README.
+development/groovy: Fix README.
+development/gtkextra: Fix README.
+development/henplus: Fix README.
+development/hexinator: Fix README.
+development/hhvm: Fix README.
+development/highlight: Fix README.
+development/ht: Removed (duplicate of development/hte).
+development/icecream: Fix README.
+development/idea: Fix README.
+development/idlex: Fix README.
+development/inform: Fix README.
+development/jam: Fix README.
+development/jasspa: Fix README.
+development/jdk11: Fix README.
+development/jdk11: Updated for version 11.0.8 (UNTESTED)
+development/jdk12: Fix README.
+development/jdk13: Fix README.
+development/jdk14: Updated for version 14.0.2 (UNTESTED).
+development/jdk15: Added (Java Platform SDK 15) (UNTESTED).
+development/jdk: Fix README.
+development/jsmin: Fix README.
+development/julia: Fix README.
+development/julius: Fix README.
+development/jupyter-ipyleaflet: Fix README.
+development/jupyter-ipywidgets: Fix README.
+development/jupyter-nbconvert: Fix README.
+development/jupyter-nbdime: Fix README.
+development/jupyter-nbformat: Fix README.
+development/jupyter-notebook: Fix README.
+development/jupyter-qtconsole: Fix README.
+development/jupyter-widgetsnbextension: Fix README.
+development/jupyter_client: Fix README.
+development/jupyter_console: Fix README.
+development/jupyter_core: Fix README.
+development/kconfig-frontends: Fix README.
+development/kdiff3: Fix README.
+development/kicad-footprints: Fix README.
+development/kicad-packages3D: Fix README.
+development/kicad-symbols: Fix README.
+development/kicad-templates: Fix README, slack-desc.
+development/kicad: Fix README.
+development/kotlin: Fix README.
+development/lcov: Fix README.
+development/ldns: Fix README.
+development/lepton-eda: Fix slack-desc.
+development/liquibase: Fix README.
+development/logisim: Fix README.
+development/luajit: Fix README.
+development/lwtools: Fix README.
+development/mads: Fix README.
+development/maude: Fix README.
+development/mawk: Fix README.
+development/mcrl2: Fix README.
+development/mcu8051ide: Fix README.
+development/medit: Fix README.
+development/meld3: Fix README.
+development/meld: Fix README.
+development/memchan: Fix README.
+development/menhir: Fix README.
+development/minikube: Fix README.
+development/mit-scheme: Fix README.
+development/mongodb-compass: Fix README.
+development/mono-addins: Fix README, script encoding.
+development/mono-basic: Fix README.
+development/mono-debugger: Fix script encoding.
+development/mono: Fix README.
+development/mrustc: Fix README.
+development/mtasc: Fix README.
+development/mysql-workbench: Fix README.
+development/newlisp: Fix README.
+development/nim: Fix README.
+development/ninja: Fix README.
+development/noweb: Fix README.
+development/nsis: Fix README.
+development/numpy-legacy3: Fix README.
+development/numpy-legacy: Fix README.
+development/numpy3: Fix README.
+development/numpy: Fix README.
+development/nvi: Fix README.
+development/obcpl: Fix README.
+development/obnc-libext: Fix README.
+development/ocaml: Fix README.
+development/octant: Fix README.
+development/ola: Fix README.
+development/omake: Fix README.
+development/omniORBpy: Fix README.
+development/openjdk6: Fix README.
+development/openjdk7: Fix README.
+development/openjdk8: Fix README.
+development/openocd: Fix README.
+development/osc: Fix README.
+development/p4: Fix README.
+development/p4d: Fix README.
+development/p4v: Fix README.
+development/pandas: Fix README.
+development/pcc: Fix README.
+development/pd-psql: Fix README.
+development/peg: Fix README.
+development/perf: Fix README.
+development/perl-shtags: Fix README.
+development/pforth: Fix README.
+development/pkgdiff: Fix README.
+development/poedit: Fix README.
+development/postman: Updated for version 7.34.0.
+development/processing: Fix README.
+development/pylint: Fix README.
+development/qconf: Fix README.
+development/qt-creator2: Fix README.
+development/quilt: Fix README.
+development/racer: Updated for version 2.1.39.
+development/racket: Fix README.
+development/regexxer: Fix README.
+development/regina-rexx: Fix README.
+development/robotframework: Fix README.
+development/rtags: Fix README.
+development/ruff: Fix README.
+development/rustup: Updated for version 1.22.1.
+development/s51dude: Fix README.
+development/sam: Fix README.
+development/scala: Fix README.
+development/sdcc: Fix README.
+development/shc: Fix README.
+development/shed: Fix README.
+development/smalltalk: Fix README.
+development/smartsvn: Fix README.
+development/snack: Fix README.
+development/snappy: Fix README, script encoding.
+development/source-highlight: Fix README.
+development/sourcenav: Fix README.
+development/spin: Fix README.
+development/splint: Fix README.
+development/spyder: Fix README.
+development/sqlcl: Fix README.
+development/srcML: Fix README.
+development/srecord: Fix README.
+development/staruml: Fix README.
+development/svn-all-fast-export: Fix README.
+development/swfmill: Fix README.
+development/tclvfs: Fix README.
+development/textadept: Fix README.
+development/thread: Fix README.
+development/tkdnd: Fix README.
+development/tora: Fix README.
+development/trac: Fix README.
+development/trf: Fix README.
+development/tweak: Fix README.
+development/ucblogo: Fix README.
+development/uncrustify: Fix README.
+development/unifdef: Fix README.
+development/unittest-cpp: Fix README.
+development/universal-ctags: Fix README.
+development/urn: Fix README.
+development/uz80as: Fix README.
+development/vala-12: Fix README.
+development/velero: Fix README.
+development/viewvc: Fix README.
+development/vis: Fix README.
+development/vispatch: Fix README.
+development/vscode-bin: Updated for version 1.50.1.
+development/vstudio: Fix README.
+development/watchman: Fix README.
+development/xdebug: Fix README.
+development/xnedit: Fix README.
+development/xvi: Fix README.
+development/yarn: Fix README.
+development/yarn: Updated for version 1.22.10.
+development/z88dk: Fix README.
+development/zeal: Fix README.
+development/zope.interface: Fix README.
+games/4digits: Fix README.
+games/Chatbot-Eliza: Fix README.
+games/KoboDeluxe: Fix README.
+games/OpenRA: Fix README.
+games/RetroArch: Updated for version 1.9.0.
+games/SLADE: Fix README.
+games/Scorched3D: Fix README.
+games/VASSAL: Fix README.
+games/VASSAL: Updated for version 3.4.3.
+games/VASSAL: Updated for version 3.4.5.
+games/abe: Fix README.
+games/ags: Fix README.
+games/aisleriot: Fix slack-desc.
+games/alienarena: Fix README.
+games/armagetronad: Fix README.
+games/atanks: Fix doinst.
+games/atari++: Fix README.
+games/atari800: Fix README.
+games/atari800_roms: Fix README.
+games/bastet: Fix README.
+games/beetle-lynx-libretro: Fix README.
+games/beetle-ngp-libretro: Fix README.
+games/beetle-pce-fast-libretro: Fix README.
+games/beetle-pcfx-libretro: Fix README.
+games/beetle-psx-libretro: Fix README.
+games/beetle-supergrafx-libretro: Fix README.
+games/beetle-vb-libretro: Fix README.
+games/beetle-wswan-libretro: Fix README.
+games/berusky2-data: Fix README.
+games/berusky2: Fix README.
+games/blastem-libretro: Fix README.
+games/bloodcm: Fix README.
+games/blueMSX-libretro: Fix README.
+games/bluez-sixaxis: Fix README.
+games/bomberclone: Fix README.
+games/brainparty: Fix README.
+games/brickout: Fix README.
+games/brutalchess: Fix README.
+games/bsnes-mercury: Fix README.
+games/bzflag: Fix README.
+games/chocolate-doom: Fix README.
+games/chroma: Fix README.
+games/circuslinux: Fix README.
+games/ckmame: Fix README.
+games/clonekeen: Fix README.
+games/colem: Fix README.
+games/commandergenius: Fix README.
+games/connectagram: Fix README.
+games/crimson: Fix README.
+games/crrcsim: Fix README.
+games/cubosphere: Fix README.
+games/curseofwar: Fix README.
+games/cutemaze: Fix README.
+games/darkplaces: Fix README.
+games/dhewm3: Fix README.
+games/dice: Fix README.
+games/doomseeker: Fix README.
+games/dungeon: Fix README.
+games/dustrac: Fix README.
+games/eduke32: Fix README.
+games/eduke32_hires_pack: Fix README.
+games/empire: Fix README.
+games/enigma: Fix README.
+games/eureka: Fix README.
+games/f1spirit: Fix README.
+games/fbalpha: Fix README.
+games/ffgo: Fix README.
+games/fgrun: Fix README.
+games/fifengine: Fix README.
+games/fizmo: Fix README.
+games/fmsx-libretro: Fix README.
+games/fortune-dune: Fix README.
+games/fortune-farscape: Fix README.
+games/fortune_doctor_who: Updated for version 20200923.
+games/fortune_firefly: Fix README.
+games/freeciv: Fix README.
+games/freedoom: Fix README.
+games/freeminer: Fix README.
+games/freeorion: Fix README.
+games/fs2open: Fix README.
+games/galaxyv2: Fix README.
+games/gambatte-libretro: Fix README.
+games/garden: Fix README.
+games/gemrb: Fix README.
+games/gl-117: Fix README.
+games/glbsp: Fix README.
+games/glestae: Fix README.
+games/gnonograms: Fix README.
+games/gnubg: Fix README.
+games/gtklife: Fix README.
+games/gw-libretro: Fix README.
+games/hatari: Fix README.
+games/hexalate: Fix README.
+games/higan: Fix README.
+games/ifm: Fix README.
+games/innoextract: Fix README.
+games/ioquake3: Fix README.
+games/jezzball-kazzmir: Fix README.
+games/jfsw: Fix README.
+games/jfsw_demo_data: Fix README.
+games/jfsw_hires_pack: Fix README.
+games/jfsw_registered_data: Fix README.
+games/jfsw_wanton_destruction: Fix README.
+games/jzintv: Fix README.
+games/knights: Fix README.
+games/koules: Fix README.
+games/libretro-desmume: Fix README.
+games/libretro-fceumm: Fix README.
+games/libretro-handy: Fix README.
+games/libretro-prboom: Fix README.
+games/libretro-vecx: Fix README.
+games/libretro-yabause: Fix README.
+games/liquidwar6: Fix README.
+games/lmpc: Fix README.
+games/lutris: Fix README.
+games/maelstrom: Fix README.
+games/mame: Fix README.
+games/marathon-infinity-data: Fix README.
+games/mednafen: Fix README.
+games/minetest: Fix README.
+games/miscom: Fix README.
+games/moon-buggy: Fix README.
+games/naev: Fix README.
+games/nestopia: Fix README.
+games/nevernoid: Fix README.
+games/noteye: Fix README.
+games/notpacman: Fix README.
+games/nottetris2: Fix README.
+games/nxengine-libretro: Fix README.
+games/oblige-legacy4: Fix README.
+games/oblige: Fix README.
+games/odamex: Fix README.
+games/open-adventure: Fix README.
+games/openarena: Fix README.
+games/opendune: Fix README.
+games/openjazz: Fix README.
+games/openmortal: Fix README.
+games/openmw: Updated for version 0.46.0.
+games/openttd: Fix README.
+games/parallel-n64: Fix README.
+games/pasang-emas: Fix README.
+games/pcsx-rearmed: Updated for version 2020.10.11_19b9695.
+games/pcsx2: Fix README.
+games/pcsxr: Fix README.
+games/peg-e: Fix README.
+games/penguin-command: Fix README.
+games/playonlinux: Fix README.
+games/powerslave_demo_data: Fix README.
+games/ppsspp: Fix README.
+games/prboom-plus: Fix README.
+games/prboom: Fix README.
+games/prosystem-libretro: Fix README.
+games/pushover: Fix README.
+games/pysolfc: Fix README.
+games/qtads: Fix README.
+games/qtsixa: Fix README.
+games/quakeforge: Fix README.
+games/quarry: Fix slack-desc.
+games/qxw: Fix README.
+games/rezerwar: Fix README.
+games/roll: Fix slack-desc.
+games/rott: Fix README.
+games/sauerbraten: Fix README.
+games/smokinguns: Fix script encoding.
+games/spring: Updated for version 104.0.
+games/steam: Updated for version 1.0.0.66
+games/stuntrally: Switch to binary release until ported to ogre-1.11+
+games/stuntrally: rm file that causes segfault on 64bit
+games/supertuxkart: Fix md5sum.
+games/unigine-superposition-benchmark: Added (benchmark/stability)
+games/vegastrike: Fix script.
+games/worldofpadman: Fix script encoding.
+gis/SFCGAL: Fix md5sum.
+graphics/dcraw: New homepage.
+graphics/flameshot: Fix README.
+graphics/fontforge: Updated for version 20190801.
+graphics/glslang: Added (GLSL/ESSL, HLSL front end SPIR-V generator)
+graphics/graphene: Added (graphic data types layer)
+graphics/icc_profiles_from_eci: Fix .info.
+graphics/libplacebo: Fix build with newer glslang.
+graphics/renderdoc: Updated for version 1.10.
+graphics/shaderc: Updated for version 2020.3.
+graphics/vuescan: Updated MD5SUMs.
+graphics/vulkan-sdk: Updated for version 1.2.154.0.
+ham/ax25-tools: Fix README, .info, doinst.
+ham/flrig: Fix slack-desc.
+ham/spectools: No dashes in VERSION, people!.
+libraries/Botan: Updated for version 2.16.0.
+libraries/MyGUI: Updated for version 3.4.0.
+libraries/adns: Fix slack-desc, template comments.
+libraries/bullet: Updated for version 3.05.
+libraries/bullet: Updated for version 3.06.
+libraries/cgicc: Fix README.
+libraries/cyrus-sasl-xoauth2: Added (Cyrus SASL XOAUTH2 Plugin)
+libraries/digimend-kernel-drivers: Fix script, info.
+libraries/flint: Fix slack-desc, template comments.
+libraries/gnome-sharp: Convert script to utf-8.
+libraries/libaec: Fix README, slack-desc.
+libraries/libfixposix: Fix README.
+libraries/libinput: Updated for version 1.16.2.
+libraries/libtecla: Fix README.
+libraries/libwpe: Fix README, info, script.
+libraries/libyubikey: Fix download link.
+libraries/live555: Updated for version 2020.08.19
+libraries/ogre: Add notes about assimp.
+libraries/ogre: Update dep.
+libraries/ogre: Updated for version 1.12.9.
+libraries/opencl-amd: Fix script, README.
+libraries/opencv: Updated for version 4.5.0
+libraries/qml-material: Fix README.
+libraries/qt5-legacy: Fix slack-desc.
+libraries/qwtplot3d: Fix README.
+libraries/rhonabwy: Fix README, info.
+libraries/skalibs: Updated for version 2.9.3.0.
+libraries/sqliteodbc: Updated for version 0.9998.
+libraries/tbb: Use correct github URL.
+libraries/tcl-inotify: Fix README.
+misc/BISP: Fix script encoding.
+misc/html-xml-utils: Fix README.
+misc/mosquitto: Updated for version 1.6.12
+misc/tidyp: Fix README, slack-desc.
+misc/ykpers: Fix download link.
+misc/yubikey-personalization-gui: Fix download link.
+misc/yubioath-desktop: Fix template comments.
+multimedia/audio-recorder: Fix README.
+multimedia/flashplayer-plugin: Updated for version 32.0.0.445.
+multimedia/k9copy-reloaded: Fix README.
+multimedia/mpv: Fix README, info.
+multimedia/pepperflash-plugin: Updated for version 32.0.0.445.
+multimedia/smplayer: Updated for version 20.6.0.
+multimedia/straw-viewer: Updated for version 0.1.0.
+multimedia/vlc: Updated for version 3.0.11.1
+network/NetworkManager-fortisslvpn: Fix slack-desc.
+network/Quaternion: Fix slack-desc.
+network/RTL8192: Fix README, info, slack-desc.
+network/acme.sh: Fix README.
+network/bollux: Fix slack-desc.
+network/brave-browser: Updated for version 1.15.75.
+network/coturn: Fix slack-desc.
+network/dropbear: Fix script encoding.
+network/nbtscan: Fix script encoding.
+network/neomutt: Updated to version 20200925.
+network/onionshare: Fix md5sum.
+network/opera-developer: Updated for version 73.0.3834.0.
+network/opera: Updated for version 71.0.3770.228.
+network/palemoon: Fix README, info.
+network/pulse-sms: Fix slack-desc.
+network/qutebrowser-tox: Updated for version 1.14.0.
+network/qutebrowser: Updated for version 1.14.0.
+network/resilio-sync: Fix slack-desc.
+network/rtl8821ce: Added (Realtek RTL8821CE Driver)
+network/squirrelmail: Fix slack-desc, README, info.
+network/sslscan: Updated for version 2.0.4.
+network/t50: Fix README.
+network/tcptunnel: Convert script to utf-8.
+network/tgt: Fix slack-desc, README.
+network/tor-browser: Updated for version 10.0.1.
+network/vivaldi: Updated for version 3.4.2066.76.
+network/wire: Standardize shebang.
+network/wp-cli: Script nitpick.
+network/yadifa: Fix README.
+network/youtube-upload: Fix README.
+network/zeek: Fix info, slack-desc.
+network/zoom-linux: Updated for version 5.3.472687.1012.
+office/ProjectLibre: Updated for version 1.9.2.
+office/calibre-bin: Updated for version 5.3.0.
+office/gnucash: Standardize shebang.
+office/hamster: Updated for version 3.0.2.
+office/lowdown: Fix slack-desc.
+office/mate-calc: Fix slack-desc.
+office/onlyoffice-desktopeditors: Updated for version 6.0.0.
+office/pandoc-bin: Fix README.
+office/plover: Fix README, slack-desc, VERSION.
+office/xournalpp: Fix README.
+perl/perl-Crypt-Eksblowfish: Fix info.
+perl/perl-Filesys-Df: Fix README.
+perl/perl-GooCanvas2: Fix README, slack-desc.
+perl/perl-HTML-Tidy: Fix slack-desc.
+perl/perl-IPC-Run: Fix info.
+perl/perl-Modern-Perl: Standardize shebang, fix slack-desc.
+perl/perl-Mojolicious-Plugin-I18N: Fix README, info.
+perl/perl-String-Random: Fix README, slack-desc.
+perl/perl-Text-CharWidth: Fix README.
+perl/perl-file-slurper: Fix slack-desc.
+python/DVR-Scan: Fix README, slack-desc.
+python/Flask-Babel: Fix README.
+python/Flask-HTMLmin: Fix README, slack-desc.
+python/Flask-WTF: Fix slack-desc.
+python/PyGreSQL: Updated for version 5.2.1
+python/PyXB: Fix README, script encoding.
+python/Yapps2: Fix slack-desc.
+python/captcha: Fix README.
+python/cheetah3: Fix slack-desc.
+python/contextlib2: Fix slack-desc.
+python/django-sass: Script nitpick.
+python/fixtures: Fix README, slack-desc.
+python/htmlmin: Fix README, slack-desc.
+python/jaraco-packaging: Fix README, PRGNAM.
+python/jsonpointer: Fix slack-desc.
+python/linecache2: Fix README, slack-desc.
+python/lockfile: Fix README.
+python/mypy: Updated for version 0.790.
+python/pathtools3: Script nitpick.
+python/pysass: Script nitpick.
+python/python-bitstring: Fix script, README, slack-desc.
+python/python-mimeparse: Fix slack-desc.
+python/python-netaddr: Updated for version 0.8.0
+python/python-soupsieve: Fix slack-desc.
+python/python3-Flask-httpauth: Fix README, slack-desc.
+python/python3-soupsieve: Fix slack-desc.
+python/python3-statsmodels: Fix slack-desc.
+python/repoze.lru: Fix README.
+python/rst-linker: Fix README, PRGNAM.
+python/rst: Script nitpick.
+python/speaklater: Fix README.
+python/testscenarios: Fix slack-desc.
+python/tgext.routes: Fix README.
+python/traceback2: Fix README, slack-desc.
+python/watchdog: Fix README, PRGNAM.
+python/workbook: Fix README.
+python/zeep: Fix README.
+ruby/rubygem-mini_mime: Fix slack-desc.
+ruby/rubygem-parser: Updated for version 2.7.2.0.
+system/CPU-X: Fix README.
+system/dget: Updated for version 2.20.4.
+system/epson-inkjet-printer-escpr2: Updated for version 1.1.23.
+system/epson-printer-utility: Updated for new models.
+system/execline: Updated for version 2.6.1.1.
+system/fasd: Fix slack-desc.
+system/fuse-overlayfs: Fix md5sum.
+system/fzf: Updated for version 0.23.1.
+system/guake: Standardize shebang.
+system/intelmas: Updated for version 1.3.
+system/kbfs: Updated for version 5.5.2_20201016183637.
+system/keybase: Updated for version 5.5.2.
+system/kitchen-sync: Updated for version 2.8.
+system/libtrash: Fix slack-desc.
+system/lynis: Updated for version 3.0.1.
+system/mdf2iso: Fix README.
+system/nvidia-legacy340-driver: Fix README, info.
+system/nvidia-legacy390-driver: Fix slack-desc.
+system/phoronix-test-suite: Updated for version 10.0.0.
+system/pspg: Updated for version 3.1.4.
+system/s6-rc: Updated for version 0.5.2.0.
+system/skopeo: Fix md5sum.
+system/splix: Fix README, script VERSION.
+system/steghide: Fix README, script.
+system/sysbench: Fix slack-desc, info.
+system/tiger: Fix script encoding.
+system/tmpwatch: Fix README, slack-desc.
+system/tpc: Fix README.
+system/unigine-heaven-benchmark: Fix template comments.
+system/unigine-valley-benchmark: Fix template comments.
+system/unionfs-fuse: Fix README, slack-desc.
+system/univga-font: Fix README.
+system/v4l2loopback: Fix slack-desc.
+system/vagrant: Updated for version 2.2.10.
+system/wine-staging: Updated for version 5.19.
+system/zfs-on-linux: Updated version to 0.8.5.
++--------------------------+
+Sat Oct 10 03:19:30 UTC 2020
+academic/Gridcoin-Research: Updated for version 5.0.1.0
+academic/Gridcoin-Research: Updated for version 5.0.2.0
+academic/Gridcoin-Research: fix md5sum
+academic/STAR: Updated for version 2.7.6a.
+academic/bcftools: Updated for version 1.11.
+academic/bowtie2: Updated for version 2.4.2.
+academic/bpp1.9-numcalc: Added (Bio++ 1.9 NumCalc Library)
+academic/bpp1.9-phyl: Added (Bio++ 1.9 Phyl Library)
+academic/bpp1.9-seq: Added (Bio++ 1.9 Seq Library)
+academic/bpp1.9-utils: Added (Bio++ 1.9 Utils Library)
+academic/pysam: Updated for version 0.16.0.1.
+academic/reduce-algebra: Updated for version 20201007svn5424.
+academic/rpy2: Updated for version 3.3.6.
+academic/samtools: Updated for version 1.11.
+academic/vCAPS_coevolution: Added (Coevolution Analysis)
+accessibility/speech-dispatcher: Updated for version 0.10.1
+desktop/fvwm3: Updated for version 1.0.1.
+development/CImg: Updated for version 2.9.2
+development/bfg: Updated for version 1.13.0.
+development/dbeaver-ce: Updated for version 7.2.2.
+development/ghex: Added (hex editor with GTK+3 GUI)
+games/chessx: Updated for version 1.5.4.
+games/instead: Updated for version 3.3.2.
+games/wesnoth: Updated for verion 1.14.14
+graphics/heif-gimp-plugin: Added (HEIF plugin for GIMP)
+graphics/vuescan: Updated MD5SUMs.
+libraries/flint: Added (Fast Library for Number Theory)
+libraries/htslib: Updated for version 1.11.
+libraries/imlib2: Updated for version 1.7.0.
+libraries/imlib2_loaders: Updated for version 1.7.0.
+libraries/libde265: Added (open h.265 codec implementation)
+libraries/libheif: Added (HEIF and AVIF format decoder and encoder)
+libraries/olm: Updated for version 3.2.1.
+misc/ghostpcl: Updated for version 9.53.3.
+multimedia/plexmediaserver: Updated for v 1.20.2.3402_0fec14d92.
+network/onedrive: Updated for version 2.4.6.
+network/signal-desktop: Updated for version 1.36.3.
+network/skypeforlinux: Updated for version 8.65.0.76.
+network/syncthing: Updated for version 1.9.0.
+network/telegram: Updated for version 2.4.3.
+network/wire: Updated for version 3.20.2934.
+office/MasterPDFEditor: Updated for version 5.6.49.
+office/calibre-bin: Updated for version 5.2.0.
+office/ghostwriter: Added (distraction-free Markdown editor)
+office/pdfstudio: Updated for version 2020.1.1.
+office/pdfstudioviewer: Updated for version 2020.1.1.
+ruby/ruby-build: Updated for version 20201005.
+system/chronograf: Updated for version 1.8.7.
+system/epson-inkjet-printer-escpr2: Updated for version 1.1.22.
+system/epson-printer-utility: Updated for version 1.1.1.
+system/fzf: Updated for version 0.23.0.
+system/kitchen-sync: Updated for version 2.7.
+system/laptop-mode-tools: Updated for version 1.74.
+system/letsencrypt: Updated for version 1.9.0.
+system/osquery-bin: Updated for version 4.5.1.
+system/xvfb-run: Added (Run a command in a virtual X server env)
++--------------------------+
+Sat Oct  3 02:02:30 UTC 2020
+academic/ds9: Fix md5sum.
+academic/nco: Updated for version 4.9.5.
+academic/units: Updated for version 2.20.
+audio/aj-snapshot: Fix md5sum.
+audio/non: Updated for version 20200928.
+audio/ntk: Updated for version 20200928
+desktop/dbgl-legacy: New URL.
+desktop/fbmenugen: Updated for version 0.85.
+desktop/imgur-screenshot: Updated for version 2.0.0.
+desktop/obbrowser: Updated for version 0.13.
+desktop/obmenu-generator: Updated for version 0.88.
+desktop/salmon: Added (afterstep-style load monitor applet)
+desktop/xfce4-timer-plugin: Updated for version 1.6.0.
+development/adms: Updated for version 2.3.7.
+development/d-tools: Updated for version 2.094.0
+development/dbeaver-ce: Updated for version 7.2.1.
+development/dmd: Updated for version 2.094.0
+development/pkgconf: Use personality files and add symlink.
+development/rustup: Updated for version 1.21.1.
+development/universal-ctags: Fix checksum
+games/7kaa: Updated for version 2.15.4p1.
+games/crispy-doom: Updated for version 5.9.2.
+games/domination: Updated for version 1.2.2.
+games/doomretro: Updated for version 3.6.1.
+games/sdlpop: Updated for version 1.21.
+games/starfighter: Updated for version 2.3.3.
+games/supertuxkart: Fix source MD5SUM.
+graphics/unison: Updated MD5SUMs.
+libraries/hiredis: Fix md5sum.
+libraries/libinput: Updated for version 1.16.1.
+libraries/libwacom: Updated for version 1.5.
+libraries/pigpio: Fix md5sum, README, VERSION.
+libraries/ulfius: Fix md5sum.
+libraries/xylib: Updated for version 1.6.
+misc/ghostpcl: Updated for version 9.53.2.
+multimedia/LBRY: Updated for version 0.48.0.
+multimedia/avidemux: Updated for version 2.7.6.
+multimedia/musixmatch: Fix md5sum, README.
+network/Signal-Desktop: Removed.
+network/asterisk: Updated for version 16.13.0.
+network/brave-browser: Updated for version 1.14.84.
+network/netsniff-ng: Fix md5sum.
+network/opera-developer: Updated for version 73.0.3820.0.
+network/opera: Updated for version 71.0.3770.171.
+network/prosody-mod-cloud-notify: Updated for version hg4151.
+network/prosody-mod-http-upload: Updated for version hg4076.
+network/rspamd: Add deps: cmake-202x libsodium.
+network/teamviewer: Updated for version 15.10.5.
+network/telegram: Updated for version 2.4.0.
+network/telegram: Updated for version 2.4.2.
+network/zoom-linux: Updated for version 5.3.469451.0927.
+office/calibre-bin: Updated for version 5.1.0.
+office/pdfstudio: Updated for version 2020.1.0.
+office/pdfstudioviewer: Updated for version 2020.1.0.
+office/smoffice2016: Change maintainer.
+office/smoffice2018: Change maintainer.
+office/smoffice2021: Added (office suite)
+office/wps-office: Fix md5sum.
+perl/MoarVM: Updated for version 2020.09.
+perl/nqp: Updated for version 2020.09.
+perl/perl-GD: Updated for version 2.73.
+perl/perl-glib: Updated for version 1.3293.
+perl/rakudo: Updated for version 2020.09.
+python/python-mysql-replication: Updated for version 0.22.
+python/python-precis-i18n: Updated for version 1.0.2.
+python/python3-astroid: Update homepage URL.
+python/python3-isort: Updated for version 5.5.4.
+ruby/ruby-build: Updated for version 20200926.
+system/Iosevka-slab: Updated for version 3.6.1.
+system/Iosevka: Updated for version 3.6.1.
+system/aha: Updated for version 0.5.1.
+system/archivemount: Fix md5sum.
+system/bleachbit: Updated for version 4.1.0.
+system/ck4up: Fix md5sum, README, slack-desc.
+system/cpuid2cpuflags: Updated for version 11.0.
+system/epson-inkjet-printer-escpr2: Updated for version 1.1.20.
+system/epson-printer-utility: Added (epson printer monitor+tools)
+system/monitorix: Update DEP.
+system/nvidia-driver: Updated for version 450.80.02.
+system/nvidia-kernel: Updated for version 450.80.02.
+system/unigine-heaven-benchmark: Added (benchmark software)
+system/unigine-valley-benchmark: Added (System benchmark tool)
+system/wine-staging: Updated for version 5.18.
+system/wine: Updated for version 5.0.2.
+system/zsh-completions: Updated for version 0.32.0.
++--------------------------+
+Sat Sep 26 09:13:36 UTC 2020
+academic/bibletime: Fix README.
+academic/xiphos: Updated for version 4.2.1.
+audio/ardour: Updated for version 6.3.
+desktop/i3-gaps: Updated for version 4.18.2.
+desktop/i3: Updated for version 4.18.2.
+development/ShellCheck-bin: Updated for version 0.7.1.
+development/cloc: Update to 1.88.
+development/composer: Updated for version 1.10.13
+development/d-tools: Updated for version 2.093.1
+development/dmd: Updated for version 2.093.1
+development/dotnet-runtime: Updated for version 3.1.8.
+development/dotnet-sdk: Updated for version 3.1.402.
+development/meson: Update to 0.55.3.
+development/universal-ctags: Updated for version 86bdb84
+development/vscode-bin: Updated for version 1.49.2.
+games/supertuxkart: Upgrade to 1.2.
+gis/GMT: Updated for version 6.1.1.
+gis/python3-basemap: Updated for version 1.2.2.
+graphics/vuescan: Updated for version 9.7.35.
+graphics/yacreader: Updated for version 9.7.1.2009123.
+libraries/Impacket: Updated for version 0.9.21.
+libraries/aspnetcore-runtime: Updated for version 3.1.8.
+libraries/libmediainfo: Update to 20.08.
+libraries/libzen: Update to 0.4.37.
+libraries/ode: Updated for version 0.16.2.
+libraries/tcl-promise: Added (A promise/future lib for tcl)
+misc/KeePass: Updated for version 2.46.
+multimedia/castget: Added (A command line tool to download podcasts)
+multimedia/mediainfo: Update to 20.08.
+multimedia/smplayer: Updated for version 20.4.2.
+multimedia/smtube: Updated for version 20.6.0.
+network/Electrum: Updated for version 4.0.3.
+network/anydesk: Updated for version 6.0.1.
+network/discord: Update to 0.0.12.
+network/newsboat: Updated for version 2.21.
+network/nordvpn: Updated for version 3.8.4.
+network/openresolv: Update to 3.11.0.
+network/qutebrowser-tox: Updated for version 1.13.1.
+network/rspamd: Updated for version 2.5.
+network/shorewall-core: Updated for version 5.2.8.
+network/shorewall6: Updated for version 5.2.8.
+network/shorewall: Updated for version 5.2.8.
+network/signal-desktop: Updated for version 1.36.2.
+network/sslscan: Updated for version 2.0.1.
+network/tor-browser: Updated for version 10.0.
+network/varnish: Updated for version 6.5.0.
+network/vivaldi: Updated for version 3.3.2022.47.
+network/wireshark: Updated for version 3.2.7.
+network/zoom-linux: Updated for version 5.3.465578.0920.
+office/calibre-bin: Updated for version 5.0.1.
+perl/perl-html-form: Fix download URL.
+python/passlib: Updated for version 1.7.2.
+python/python3-isort: Updated for version 5.5.3.
+python/python3-obspy: Updated for version 1.2.2.
+system/JetBrainsMono: Updated for version 2.001.
+system/archivemount: Updated for version 0.9.1.
+system/epson-inkjet-printer-escpr2: Updated for version 1.1.19.
+system/jsawk: Support mozjs78 from -current.
+system/monitorix: Updated for version 3.12.0.
+system/openmpi: Updated for version 4.0.5.
+system/powershell: Updated for version 7.0.3.
++--------------------------+
 Sat Sep 19 01:55:45 UTC 2020
 academic/HMMER: Updated for version 3.3.1.
 academic/PhyMLR: Updated for version 3.3.20200621.
