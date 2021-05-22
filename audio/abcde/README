@@ -24,11 +24,10 @@ or more of these dependencies:
 * apetag          for tagging Monkey's Audio files
 
 * tta             for creating True Audio files (default)
-* ttaenc          for creating True Audio files
 
 * glyr            for downloading album art
 * mkcue           for generating cue sheets for one-album files
 * vorbisgain      for adjusting the volume of Ogg Vorbis files
 
-Set CDDBMETHOD to "cddb" if you would like to retrieve music metadata and
-album art from freedb instead of MusicBrainz.
+Set CDDBMETHOD to "cddb" if you would like to retrieve music metadata
+and album art from freedb instead of MusicBrainz.

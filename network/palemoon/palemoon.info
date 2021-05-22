@@ -1,14 +1,14 @@
 PRGNAM="palemoon"
-VERSION="28.10.0"
+VERSION="29.1.1"
 HOMEPAGE="http://www.palemoon.org/"
-DOWNLOAD="https://github.com/MoonchildProductions/Pale-Moon/archive/28.10.0_Release/Pale-Moon-28.10.0_Release.tar.gz \
-          https://github.com/MoonchildProductions/UXP/archive/RELBASE_20200603/UXP-RELBASE_20200603.tar.gz \
+DOWNLOAD="http://repo.khronosschoty.org/Slackware/Pale-Moon/source/Pale-Moon-29.1.1_Release.tar.gz
+          http://repo.khronosschoty.org/Slackware/Pale-Moon/source/UXP-RELBASE_20210330.tar.gz \
           http://ponce.cc/slackware/sources/repo/autoconf-2.13.tar.xz"
-MD5SUM="602745f4703f835ff617e3ecfc2226e4 \
-        77c52f1bd1b26139bdc11aa6bddee8f8 \
+MD5SUM="f522cab929ec62382dc30391a590b039 \
+        535724b8fbb0d791cdf48f456969df9f \
         f2994d302cf736e7e71974edfa51da3c"
 DOWNLOAD_x86_64=""
 MD5SUM_x86_64=""
-REQUIRES="ffmpeg"
+REQUIRES=""
 MAINTAINER="khronosschoty"
 EMAIL="khronosschoty@posteo.org"

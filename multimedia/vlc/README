@@ -12,22 +12,9 @@ are detected at build time, they will be included. Conversely if
 optional packages are not available at build time, vlc will generally
 continue to build with a reduced feature set.
 
-Support for OpenCV is supported using either the "default" opencv
-package or the opencv-legacy package (version 3.1.0) from SBo. Either
-package will be detected and used if already installed. If opencv support
-is not wanted despite the presence of opencv or opencv-legacy, it can be
-explicitly disabled by setting the the OPENCV environment variable
-to "no" e.g.
-  OPENCV=no sh vlc.SlackBuild
-
 Support for Wayland is a special case. It is not supported by default
 but can be enabled setting the WAYLAND environment variable to "yes"
-when running the SlackBuild e.g.
-  WAYLAND=yes sh vlc.SlackBuild
-This support also requires additional SBo packages wayland-egl and
-wayland-protocols. It also depends on the qt5 package having been
-built with wayland support i.e. wayland package was installed when the
-qt5 package was built.
+when running the SlackBuild e.g.  WAYLAND=yes sh vlc.SlackBuild
 
 By default, the vlc runtime is not able to be run as root. This
 security feature may be side stepped by building vlc with the RUNASROOT
@@ -37,14 +24,11 @@ environment variable set e.g.
 Playing of AV1 encoded video is supported when either of SBo's
 multimedia/aom or libraries/dav1d packages is detected when vlc is built.
 One of these is expected to become required in a future release.
+Some versions of the automatically detected optional aom package are
+incompatible with this version of vlc and in this case the build will
+fai. This can be avoided by setting the AOM environment variable to "no"
+e.g.
+  AOM=no sh vlc.SlackBuild
 
 Please advise the maintainer to suggest support for any further options.
 
-
-*NOTES*
-- the qt4 interface seems not to be working ATM so the qt5 one is
-  enabled by default: this means qt5 is a new mandatory dependency
-- you *need* to version-bump the libva and libva-intel-driver in
-  Slackware to versions 1.7.3 for VAAPI support: as we suppose
-  a standard install, "--enable-libva=no" is added between the
-  configure options, instead 

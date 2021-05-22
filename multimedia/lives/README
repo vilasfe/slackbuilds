@@ -20,7 +20,11 @@ performances, and as a video editor is capable of creating dazzling
 clips in a huge variety of formats.
 
 Optional dependencies:
-ffmpeg mjpegtools ladspa_sdk libunicap libdv schroedinger frei0r libavc1394
+mjpegtools ladspa_sdk libunicap libdv schroedinger libavc1394
+
+To build with opencv support, pass OPENCV=yes to the script.
+
+To disable building with pulseaudio, pass PULSE=no to the script.
 
 This package uses POSIX filesystem capabilities to execute with
 elevated privileges (required for realtime audio processing). This

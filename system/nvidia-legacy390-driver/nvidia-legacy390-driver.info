@@ -1,30 +1,30 @@
 PRGNAM="nvidia-legacy390-driver"
-VERSION="390.138"
+VERSION="390.143"
 HOMEPAGE="http://www.nvidia.com"
-DOWNLOAD="https://download.nvidia.com/XFree86/Linux-x86/390.138/NVIDIA-Linux-x86-390.138.run \
-          https://download.nvidia.com/XFree86/nvidia-installer/nvidia-installer-390.138.tar.bz2 \
-          https://download.nvidia.com/XFree86/nvidia-modprobe/nvidia-modprobe-390.138.tar.bz2 \
-          https://download.nvidia.com/XFree86/nvidia-persistenced/nvidia-persistenced-390.138.tar.bz2 \
-          https://download.nvidia.com/XFree86/nvidia-settings/nvidia-settings-390.138.tar.bz2 \
-          https://download.nvidia.com/XFree86/nvidia-xconfig/nvidia-xconfig-390.138.tar.bz2"
-MD5SUM="1247db325e3127324e28fb5f7c59ad50 \
-        8eb272cfc6559f59e8931eab0ce3a535 \
-        e7256650639b708d378ac9ff77747383 \
-        a5a5f2c3d22021042f24a998c82b653c \
-        8a6c34fbdff639aa7c2a9697cb96f1af \
-        146a1ac48785f2a9f8f03fc937c28f16"
-DOWNLOAD_x86_64="https://download.nvidia.com/XFree86/Linux-x86_64/390.138/NVIDIA-Linux-x86_64-390.138.run \
-                 https://download.nvidia.com/XFree86/nvidia-installer/nvidia-installer-390.138.tar.bz2 \
-                 https://download.nvidia.com/XFree86/nvidia-modprobe/nvidia-modprobe-390.138.tar.bz2 \
-                 https://download.nvidia.com/XFree86/nvidia-persistenced/nvidia-persistenced-390.138.tar.bz2 \
-                 https://download.nvidia.com/XFree86/nvidia-settings/nvidia-settings-390.138.tar.bz2 \
-                 https://download.nvidia.com/XFree86/nvidia-xconfig/nvidia-xconfig-390.138.tar.bz2"
-MD5SUM_x86_64="e12b55efa430062a0f7f73db071bc0c3 \
-               8eb272cfc6559f59e8931eab0ce3a535 \
-               e7256650639b708d378ac9ff77747383 \
-               a5a5f2c3d22021042f24a998c82b653c \
-               8a6c34fbdff639aa7c2a9697cb96f1af \
-               146a1ac48785f2a9f8f03fc937c28f16"
+DOWNLOAD="https://download.nvidia.com/XFree86/Linux-x86/390.143/NVIDIA-Linux-x86-390.143.run \
+          https://download.nvidia.com/XFree86/nvidia-installer/nvidia-installer-390.143.tar.bz2 \
+          https://download.nvidia.com/XFree86/nvidia-modprobe/nvidia-modprobe-390.143.tar.bz2 \
+          https://download.nvidia.com/XFree86/nvidia-persistenced/nvidia-persistenced-390.143.tar.bz2 \
+          https://download.nvidia.com/XFree86/nvidia-settings/nvidia-settings-390.143.tar.bz2 \
+          https://download.nvidia.com/XFree86/nvidia-xconfig/nvidia-xconfig-390.143.tar.bz2"
+MD5SUM="7b5704f3c89223d5ecb4f26ca9463c26 \
+        def90705f245c17a93303a863ee591ab \
+        5ee49194c37c97d81cddc34068d8f723 \
+        1c897a24ea263abd89f23504632ac842 \
+        6adc329cd15cdb88587190330a91e098 \
+        dcfdf003fd33372698eb4be07f65f1af"
+DOWNLOAD_x86_64="https://download.nvidia.com/XFree86/Linux-x86_64/390.143/NVIDIA-Linux-x86_64-390.143.run \
+                 https://download.nvidia.com/XFree86/nvidia-installer/nvidia-installer-390.143.tar.bz2 \
+                 https://download.nvidia.com/XFree86/nvidia-modprobe/nvidia-modprobe-390.143.tar.bz2 \
+                 https://download.nvidia.com/XFree86/nvidia-persistenced/nvidia-persistenced-390.143.tar.bz2 \
+                 https://download.nvidia.com/XFree86/nvidia-settings/nvidia-settings-390.143.tar.bz2 \
+                 https://download.nvidia.com/XFree86/nvidia-xconfig/nvidia-xconfig-390.143.tar.bz2"
+MD5SUM_x86_64="1b526fa9567a09eb1e18545f675c8f82 \
+               def90705f245c17a93303a863ee591ab \
+               5ee49194c37c97d81cddc34068d8f723 \
+               1c897a24ea263abd89f23504632ac842 \
+               6adc329cd15cdb88587190330a91e098 \
+               dcfdf003fd33372698eb4be07f65f1af"
 REQUIRES="nvidia-legacy390-kernel"
 MAINTAINER="Lenard Spencer"
 EMAIL="lenardrspencer@gmail.com"

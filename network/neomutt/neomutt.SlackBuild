@@ -2,7 +2,7 @@
 #
 # Slackware build script for neomutt
 #
-# Copyright 2016-2020 Corrado Franco (https://corradofranco.it)
+# Copyright 2016-2021 Corrado Franco (https://corradofranco.it)
 # All rights reserved.
 #
 # This program is free software: you can redistribute it and/or modify
@@ -26,8 +26,8 @@
 # Latest version of this SlackBuild at https://github.com/conraid/SlackBuilds
 
 PRGNAM=neomutt
-VERSION=${VERSION:-20200925}
-BUILD=${BUILD:-2}
+VERSION=${VERSION:-20210205}
+BUILD=${BUILD:-1}
 TAG=${TAG:-_SBo}
 
 if [ -z ${ARCH:=""} ]; then
@@ -60,7 +60,6 @@ fi
 [ ${USELUA:-no} == 'yes' ] && LUA="--lua" || LUA=""
 [ ${USEKYOTO:-no} == 'yes' ] && KYOTO="--kyotocabinet" || KYOTO=""
 [ ${USENOTMUCH:-no} == 'yes' ] && NOTMUCH="--notmuch" || NOTMUCH=""
-[ ${USEIDN2:-no} == 'yes' ] && IDN2="--idn2 --disable-idn" || IDN2=""
 
 set -eu
 
@@ -95,9 +94,11 @@ CXXFLAGS="$SLKCFLAGS" \
   --locales-fix \
   --sqlite \
   --full-doc \
+  --idn2 \
+  --disable-idn \
   --host=$ARCH-slackware-linux \
   --build=$ARCH-slackware-linux \
-  $NOTMUCH $KYOTO $IDN2 $LUA
+  $NOTMUCH $KYOTO $LUA
 
 make
 make DESTDIR=$PKG install

@@ -2,7 +2,7 @@
 
 # Slackware build script for rtmpdump
 
-# Copyright 2013-2016 Matteo Bernardini <ponce@slackbuilds.org>, Pisa, Italy
+# Copyright 2013-2018 Matteo Bernardini <ponce@slackbuilds.org>, Pisa, Italy
 # All rights reserved.
 #
 # Redistribution and use of this script, with or without modification, is
@@ -25,7 +25,7 @@
 # Modified by SlackBuilds.org
 
 PRGNAM=rtmpdump
-VERSION=${VERSION:-20151223_fa8646d}
+VERSION=${VERSION:-20210219_f1b83c1}
 BUILD=${BUILD:-1}
 TAG=${TAG:-_SBo}
 
@@ -73,6 +73,12 @@ find -L . \
 
 # patch makefiles for shared library install
 patch -p1 < $CWD/librtmp-makefile.patch
+
+# use gnutls instead of openssl
+sed -i \
+  -e 's/^CRYPTO=OPENSSL/#CRYPTO=OPENSSL/' \
+  -e 's/#CRYPTO=GNUTLS/CRYPTO=GNUTLS/' \
+  Makefile librtmp/Makefile
 
 XCFLAGS="$SLKCFLAGS" \
 make \

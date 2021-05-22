@@ -4,11 +4,11 @@
 
 # Written by Aleksandar Samardzic <asamardzic@gmail.com>
 # Maintained by Jordan Evans <jordanevans19@gmail.com>
-# Maintained 2018 by Christoph Willing <chris.willing@linux.com>
+# Maintained 2018-2021 by Christoph Willing <chris.willing@linux.com>
 
 PRGNAM=OpenSceneGraph
-VERSION=${VERSION:-3.5.5}
-BUILD=${BUILD:-2}
+VERSION=${VERSION:-3.6.5}
+BUILD=${BUILD:-1}
 TAG=${TAG:-_SBo}
 
 if [ -z "$ARCH" ]; then

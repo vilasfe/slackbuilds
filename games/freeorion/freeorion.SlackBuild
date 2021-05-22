@@ -22,8 +22,12 @@
 #  OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
 #  ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
+# 20210217 bkw: modified by SlackBuilds.org: add compilefix.diff. I
+# have no idea how this build passed QA, since it was broken all
+# along.
+
 PRGNAM=freeorion
-VERSION=${VERSION:-0.4.8}
+VERSION=${VERSION:-0.4.10.1}
 BUILD=${BUILD:-1}
 TAG=${TAG:-_SBo}
 
